@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:respuestaSolicitud xmlns:ns2="http://ec.gob.sri.ws.recepcion">
+    <estado>DEVUELTA</estado>
+    <comprobantes>
+        <comprobante>
+            <claveAcceso>2507202006171275983400120010010000003740002650911</claveAcceso>
+            <mensajes>
+                <mensaje>
+                    <identificador>35</identificador>
+                    <mensaje>ARCHIVO NO CUMPLE ESTRUCTURA XML</mensaje>
+                    <informacionAdicional>Se encontró el siguiente error en la estructura del comprobante: cvc-pattern-valid: Value 'O01' is not facet-valid with respect to pattern '[0-9]{3}' for type 'codEstbDestino'..</informacionAdicional>
+                    <tipo>ERROR</tipo>
+                </mensaje>
+            </mensajes>
+        </comprobante>
+    </comprobantes>
+</ns2:respuestaSolicitud>

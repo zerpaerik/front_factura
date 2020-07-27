@@ -1,0 +1,7 @@
+/vendor
+/xml
+/signed_xml
+/temp_pdf
+/storage/framework/views
+.idea
+.env

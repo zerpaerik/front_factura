@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>2506202006170801544900120010010000000120003977814</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">25/06/2020 11:23:48.000</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><guiaRemision id="comprobante" version="1.0.0">
+	<infoTributaria>		
+		<ambiente>2</ambiente>		
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>ALMEIDA RIVAS RENATO FABRICIO</razonSocial>
+				<nombreComercial>SANTO GIUSEPPE ESCULTURE</nombreComercial>
+				<ruc>1708015449001</ruc>
+		<claveAcceso>2506202006170801544900120010010000000120003977814</claveAcceso>
+		<codDoc>06</codDoc>
+		<estab>001</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000000012</secuencial>
+		<dirMatriz>CALLE AV. 5 DE JUNIO NO. S9-204, PICHINCHA QUITO</dirMatriz>
+	</infoTributaria>	
+	
+	<infoGuiaRemision>
+		<dirEstablecimiento>CALLE AV. 5 DE JUNIO NO. S9-204, PICHINCHA QUITO</dirEstablecimiento>
+		<dirPartida>Quito</dirPartida>
+		<razonSocialTransportista>CESAR EUGENIO SIMBAÑA GUACHAMIN</razonSocialTransportista>
+		<tipoIdentificacionTransportista>05</tipoIdentificacionTransportista>
+		<rucTransportista>1705637674</rucTransportista>
+		<rise>Contribuyente Regimen Simplificado RISE</rise>
+					<obligadoContabilidad>NO</obligadoContabilidad>
+				
+				
+		<fechaIniTransporte>25/06/2020</fechaIniTransporte>
+		<fechaFinTransporte>25/06/2020</fechaFinTransporte>
+		<placa>PBT1527</placa>
+	</infoGuiaRemision>
+
+	<destinatarios>
+		<destinatario>
+			<identificacionDestinatario>47-5500681</identificacionDestinatario>
+			<razonSocialDestinatario>FULL OF GRACE</razonSocialDestinatario>
+			<dirDestinatario>122 S. 1st STREER, AMITE, LA 70422</dirDestinatario>
+			<motivoTraslado>Exportación</motivoTraslado>
+							<docAduaneroUnico>0</docAduaneroUnico>
+						<codEstabDestino>001</codEstabDestino>
+			<ruta>Aerea</ruta>
+			<codDocSustento>01</codDocSustento>
+			<numDocSustento>001-001-000000339</numDocSustento>
+			<numAutDocSustento>1906202001170801544900120010010000003390002583112</numAutDocSustento>
+			<fechaEmisionDocSustento>19/06/2020</fechaEmisionDocSustento>			
+			<detalles>
+									<detalle>
+						<codigoInterno>11762</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA ESPERANZA 27CM</descripcion>
+						<cantidad>14.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>13612</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA ESPERANZA 42CM</descripcion>
+						<cantidad>6.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03323</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE FATIMA 121CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>15623</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA MISERICORDIA 120CM</descripcion>
+						<cantidad>3.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03545</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN MEDALLA MILAGROSA 125CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03453</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LOURDES 110CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>02845</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN LLAMA DEL AMOR 100CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>13292</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA CALLE 29CM</descripcion>
+						<cantidad>3.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>05761</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA CALLE 100CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>09318</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DOLOROSA EN BULTO 77CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03576</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN MEDALLA MILAGROSA DE LAZO 59CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>04375</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAN JOSE 180CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>11311</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA ESPERANZA 85CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>FGSJV153</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>ST JHON VIANEY 153CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>S0001</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>EMBALAJE</descripcion>
+						<cantidad>4.000000</cantidad>										
+					</detalle>
+							</detalles>
+		</destinatario>
+	</destinatarios>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature498151">
+<ds:SignedInfo Id="Signature-SignedInfo920640">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID814573" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature498151-SignedProperties25771">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>me0OldcBj7D86eJbq/jyBo3peqs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1389632">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>PUUDwE6RoB37jCo+RqTeUZG0wjc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-327411" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+GZC4/cCsfop7SuaCPxasxdgzDk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue95712">
+GdQJx38LjqMXjqrEg/1nTi0cKjf0F/Kgp/fVZxWVIVos9i7m5ot4XCVUcCKKucAFq4YYYG+XGp/A
+V9nmxKGuZQeFwwQTjcKnu97KAEnKUCducNrvp2ssIuyx/39AlIC34VYcsejwlw5GQM0VVLLDL2vp
+Bw7HpOOgYh20cOGLQg6kIfC6yolXME0dCohCN9AEizaFHvWJ/cM/fYCBewMh1ZLNFj/N3NsY4dUZ
+N/uJA+2JOIZoe1PrrIbCyNpbX2LijSSqyaRfdQNBF7t9ToqcGgKSuzG7HgSuYonYl26MvetGa6my
+yBWYEK2tnUaL4CKS9Wt8rCviic5Q1pscL5t5EQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1389632">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJqDCCB5CgAwIBAgIEW2PWRzANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIwMDYxNzE4MTgyM1oXDTIyMDYxNzE4NDgy
+M1owgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDExNTM3MjAkBgNVBAMTHVJFTkFUTyBGQUJSSUNJ
+TyBBTE1FSURBIFJJVkFTMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1EgFJogPwLaY
+8+pBHVT/ceM7AUK91JdSQ/wu6AhSLAKoDfaaOupw/5xh4Wz272Q+QZMCofSVKyuXKdDKtvbF1JaG
+Vfb46fkSoZnh+s4sOR3OstkLLSEtoBgzcmdZ2TcH5z+r0aD6E4akA5w48E5WM0GpTFHqyp8aUqhW
+/uqfKOnElvza+yA+0dda65/Xnhg6w98FevGRbEhaIT2SDL5/F7xvM+oUA9PA1UhC/xJH03L5lsQ2
+iufJd7p8YclZnbMXavX51Gd/eYg6TfckBjQVarDt8Dn9sBmNeo9ikUy4+KsqDb24BPe0qRiC7eKv
+JjKU8IKXbymtNAV+zJkak1jkFQIDAQABo4IE0DCCBMwwCwYDVR0PBAQDAgeAMGYGA1UdIARfMF0w
+WwYLKwYBBAGCqDsCAQEwTDBKBggrBgEFBQcCARY+aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtbmF0dXJhbC5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4G
+CCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2Vi
+L3N0YXR1cy9vY3NwMBoGCisGAQQBgqg7AwEEDBMKMTcwODAxNTQ0OTAfBgorBgEEAYKoOwMCBBET
+D1JFTkFUTyBGQUJSSUNJTzAXBgorBgEEAYKoOwMDBAkTB0FMTUVJREEwFQYKKwYBBAGCqDsDBAQH
+EwVSSVZBUzArBgorBgEEAYKoOwMHBB0TG0VQSUNMQUNISU1BIFM5MjA0IFkgSkFNQkVMSTAZBgor
+BgEEAYKoOwMIBAsTCTAyMjY2MDE4NTAVBgorBgEEAYKoOwMJBAcTBVF1aXRvMBcGCisGAQQBgqg7
+AwwECRMHRUNVQURPUjAdBgorBgEEAYKoOwMLBA8TDTE3MDgwMTU0NDkwMDEwIAYKKwYBBAGCqDsD
+MwQSExBTT0ZUV0FSRS1BUkNISVZPMCUGA1UdEQQeMByBGmFsbWVpZGEucmVuYXRvQGhvdG1haWwu
+Y29tMIIB3wYDVR0fBIIB1jCCAdIwggHOoIIByqCCAcaGgdVsZGFwOi8vYmNlcWxkYXBzdWJwMS5i
+Y2UuZWMvY249Q1JMOTg2LGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixs
+PVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9O
+LUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0
+ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9l
+Y19jcmxmaWxlY29tYi5jcmykgbUwgbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5U
+UkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJB
+TCBERUwgRUNVQURPUjEPMA0GA1UEAxMGQ1JMOTg2MCsGA1UdEAQkMCKADzIwMjAwNjE3MTgxODIz
+WoEPMjAyMjA2MTcxODQ4MjNaMB8GA1UdIwQYMBaAFEii3yMfHfgsUXqMA81JMqUJwZSrMB0GA1Ud
+DgQWBBSUpaTC4rBqzTc5qrZhMtT12d6KQzAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4
+LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQBYpaLwoEhksjh7YoXRqIF+aQfSdhzREdBkNJ5Av94X
+uOTF9Sy/0gAQjltE0SIqv3wNP3QoNBHGgDAFQo7NYW1fOl9dr5N63E0ZR1mWpMYqlujE+8+R9cq4
+V5V2g/vK+pVhsPVzMM58NHAV7p2zpA3g/xfpkySgnbhSQUOpJpGssPY7JXTG5Ttyi9oeVnydW5+h
+4QV+OIblpHTh7MZHH0XFJdgf+GWg9Cwn2h8W2Z6Zj9Ynb+Wlc8nlxVJlCRq1y1utUcEL0UJerzO6
+Nfr/C5qAIhJzJbHgidF+qalTOUNUm/xQf//jGVozi3CIyl0JQ2a+nQCmqymZesySUELtFJl4rwHW
+Y04wgZC6IEqKWmThdreQBMEBRSH79uZjL5PJifI0uE6L8FaUdjNGrdguk6cpx/VgC3JzXqHV4Gb9
+ojr/52TDVtUaKk74lYIxgqLr0YhqpYTaGAMXWViCBL2boOCPAYmDhBecYJG6GaHVDTJRoCZ7sk41
+Jgl4mtZUI3iz1AjLjAaDuQbacmyY0rPY77Gm+/e7Z1ffI6fdl9DP8JKZFOY5ocrkOR48BWH+T/eH
+pGtB67ugjOaG0+GlyvHcWf3EuPtNQZL07B7Hq6dBNjh8wl10At6Xgu+yHMsAdQW4jD8Fj0LuM2No
+dqj+gYZeJYXEGL5BU3PE//pakXGnd9YOZA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+1EgFJogPwLaY8+pBHVT/ceM7AUK91JdSQ/wu6AhSLAKoDfaaOupw/5xh4Wz272Q+QZMCofSVKyuX
+KdDKtvbF1JaGVfb46fkSoZnh+s4sOR3OstkLLSEtoBgzcmdZ2TcH5z+r0aD6E4akA5w48E5WM0Gp
+TFHqyp8aUqhW/uqfKOnElvza+yA+0dda65/Xnhg6w98FevGRbEhaIT2SDL5/F7xvM+oUA9PA1UhC
+/xJH03L5lsQ2iufJd7p8YclZnbMXavX51Gd/eYg6TfckBjQVarDt8Dn9sBmNeo9ikUy4+KsqDb24
+BPe0qRiC7eKvJjKU8IKXbymtNAV+zJkak1jkFQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature498151-Object321706"><etsi:QualifyingProperties Target="#Signature498151"><etsi:SignedProperties Id="Signature498151-SignedProperties25771"><etsi:SignedSignatureProperties><etsi:SigningTime>2020-06-25T11:23:49-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>9e+ip1OEEiVWxCf3F89JKNvCLE8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533269575</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-327411"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></guiaRemision>]]></comprobante>
+  <mensajes/>
+</autorizacion>

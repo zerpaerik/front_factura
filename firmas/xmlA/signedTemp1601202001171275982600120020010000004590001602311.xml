@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?><autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>1601202001171275982600120020010000004590001602311</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">16/01/2020 13:44:25.000</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>		
+		<ambiente>2</ambiente>		
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>ROSANA GUADALUPE RODRIGUEZ JARAMILLO</razonSocial>
+		<nombreComercial>SAGRADO CORAZON</nombreComercial>
+		<ruc>1712759826001</ruc>
+		<claveAcceso>1601202001171275982600120020010000004590001602311</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>002</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000000459</secuencial>
+		<dirMatriz>EPLICACHIMA S9-204 Y JAMBELI</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>16/01/2020</fechaEmision>
+		<dirEstablecimiento>VILLA FLORA</dirEstablecimiento>
+				<obligadoContabilidad>NO</obligadoContabilidad>
+	
+			<comercioExterior>EXPORTADOR</comercioExterior>
+		<incoTermFactura>FOB</incoTermFactura>
+		<lugarIncoTerm>Quito</lugarIncoTerm>
+		<paisOrigen>593</paisOrigen>
+		<puertoEmbarque>Quito</puertoEmbarque>
+		<puertoDestino>Miami</puertoDestino>
+		<paisDestino>110</paisDestino>
+		<paisAdquisicion>593</paisAdquisicion>
+	
+		<tipoIdentificacionComprador>06</tipoIdentificacionComprador>	
+		<razonSocialComprador>GINA HORECKY</razonSocialComprador>
+		<identificacionComprador>352418255</identificacionComprador>
+		<direccionComprador>11417 SW Hillcrest Cir  Port Saint Lucie Florida 34987, MIAMI FLORIDA</direccionComprador>		
+		<totalSinImpuestos>5375.01</totalSinImpuestos>
+
+			<incoTermTotalSinImpuestos>FOB</incoTermTotalSinImpuestos>
+		
+
+		<totalDescuento>0</totalDescuento>		
+		<totalConImpuestos>
+						
+			<totalImpuesto>				
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>				
+				<baseImponible>5375.01</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+						
+		</totalConImpuestos>		
+		<propina>0</propina>
+
+					<fleteInternacional>0.0000</fleteInternacional>
+			<seguroInternacional>0.0000</seguroInternacional>
+			<gastosAduaneros>0.0000</gastosAduaneros>
+			<gastosTransporteOtros>0.0000</gastosTransporteOtros>
+		
+		<importeTotal>5375.01</importeTotal>
+		<moneda>DOLAR</moneda>
+				<pagos>
+						<pago>
+				<formaPago>20</formaPago>
+				<total>5375.01</total>
+											</pago>
+					</pagos>
+			</infoFactura>
+	<detalles>
+				<detalle>
+			<codigoPrincipal>01084</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>ARCANGEL SAN MIGUEL 133CM  C/ALAS….   182CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>700.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>700</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>700</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>12318</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>CORAZON DE JESUS 62CM</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>70.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>210</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>210</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>04948</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>CRISTO DE LA PRECIOSA SANGRE  26CM  (43CM)</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>0.010000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.01</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>0.01</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>13063</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>CRISTO No. 00 11,5CM</descripcion>
+			<cantidad>5.000000</cantidad>
+			<precioUnitario>12.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>60</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>60</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>00032</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>CRISTO No. 1  FLACO  MOD. NUEVO  20CM  (45CM)</descripcion>
+			<cantidad>5.000000</cantidad>
+			<precioUnitario>22.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>110</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>110</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>08403</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>DIVINO NIÑO CON CORAZON NO. 1  25CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>17.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>34</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>34</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>12752</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>PIEDAD DE MIGUEL ANGEL 135CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>1320.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1320</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>1320</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>GHSF190</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>SAN FRANCISCO CON LOBO 190CM MODELACION</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>1000.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1000</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>1000</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>16767</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>SANTA GEMA DE GALGUINI  29CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>30.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>60</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>60</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>11762</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LA ESPERANZA 27CM</descripcion>
+			<cantidad>5.000000</cantidad>
+			<precioUnitario>18.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>90</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>90</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>11311</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LA ESPERANZA 85CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>150.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>300</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>300</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03989</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LA MATERNIDAD 28CM (LACTANCIA) (LECHE)</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>30.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>60</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>60</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>14114</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LA PROVIDENCIA SENTADA 60CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>75.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>75</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>75</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03446</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LOURDES 60CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>70.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>140</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>140</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>09943</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN LLAMA DEL AMOR SIN AUREOLA 48CM</descripcion>
+			<cantidad>8.000000</cantidad>
+			<precioUnitario>55.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>440</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>440</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03057</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN AUXILIADORA 30CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>26.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>52</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>52</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>08267</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN RECONCILIADORA 50CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>50.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>100</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>100</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03774</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN ROSA MISTICA  28CM</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>23.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>69</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>69</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>00100</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN ROSA MISTICA  68CM</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>85.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>255</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>255</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>17863</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN ROSA MISTICA ESPADAS CON AUREOLA</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>100.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>200</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>200</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>GHSM93</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>SANTA MONICA 93CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>100.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>100</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>100</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+			</detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1021136">
+<ds:SignedInfo Id="Signature-SignedInfo934534">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID737745" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1021136-SignedProperties887429">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>QfZ1s47vEggg6lQGZWqNDgHGwBg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1488868">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WRwDakCSevww950ML/mv4paxcao=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-164933" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>10L2y9NjUPnZVuYhzPDy8PsAAgU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue697992">
+QAxSDnyGcOdmpSBmguZKhT7lbWKoPCN0R9f2RmuSkaPAMphYwz6IEPpOuhyKYV8szUaqjalL3pXO
+v81Uk/0anUF/hyDOiccsfAv9BlaPJU3bavSde1nv6ErIKKt4fbXLjLAZqxWlplRwH1lba9EXuKd4
+vlr6aNzDRwWnVZSGLjLmNrWtKTGS5zihDTzwX46Ii1oVP4JzvdYd5r3q2/gzhO3wcLsX+GSjHf23
+qkknuN8pLj3eY5gAoH/gCMT22Fz1XR6to3PAgq3ppk+LlzJPl3LcVvlSmDP7WO+RjP0kdb5M4w3q
+6qHzGNuSSsE1+VZUCvLdQ98ugr641lYY7RdLBw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1488868">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJujCCB6KgAwIBAgIEWlv7NDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE4MDYwMTE1NDIxNVoXDTIwMDYwMTE2MTIx
+NVowgbwxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzFAMBEGA1UEBRMKMDAwMDExNTIwNTArBgNVBAMTJFJPU0FOQSBHVUFEQUxV
+UEUgUk9EUklHVUVaIEpBUkFNSUxMTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAPqe
+89OBlLyf/ReGhUNcA8xyPqTl+UyuLPdTwFWtTp7adXU+QQdRU3UenkF3KJztvbTbQIPDMO97JLAE
++Mpdn5MtgumVV+WrbEIJg5hRV72jPQxj/Mj/7yauPwlYZROJBvPQXoAMsb8e6hMoES255GnAXQrT
+2hsnVaMVzLdT4yfi/iOmVemC1yEb53iFPlOPUpl4Cni1kRAvmJVYjGKylHvrWcNojk3Z6HQ76NmS
+HMIX9kvXBX1dpS/LGBGAR4z+kEkyjA1rgFmZUteK4MTl31S7YD6I3/zPNGxgOgaG66LzGd8AH9wJ
+8tQGV+Sd+TtvlsJpxNG4ONUN3WaWq6dxKJUCAwEAAaOCBNswggTXMAsGA1UdDwQEAwIHgDBmBgNV
+HSAEXzBdMFsGCysGAQQBgqg7AgEBMEwwSgYIKwYBBQUHAgEWPmh0dHA6Ly93d3cuZWNpLmJjZS5l
+Yy9wb2xpdGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLW5hdHVyYWwucGRmMIGRBggrBgEFBQcBAQSB
+hDCBgTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcDAaBgorBgEEAYKoOwMBBAwTCjE3MTI3NTk4MjYwIAYKKwYBBAGC
+qDsDAgQSExBST1NBTkEgR1VBREFMVVBFMBkGCisGAQQBgqg7AwMECxMJUk9EUklHVUVaMBkGCisG
+AQQBgqg7AwQECxMJSkFSQU1JTExPMDUGCisGAQQBgqg7AwcEJxMlTUFSSUFOQSBERSBKRVNVUyAx
+NDk4IFkgTUFOVUVMQSBTQUVOWjAZBgorBgEEAYKoOwMIBAsTCTAyMjY2MDE4NTAVBgorBgEEAYKo
+OwMJBAcTBVF1aXRvMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAdBgorBgEEAYKoOwMLBA8TDTE3
+MTI3NTk4MjYwMDEwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMB8GA1UdEQQYMBaB
+FHNoYW55cm9kQGhvdG1haWwuY29tMIIB3wYDVR0fBIIB1jCCAdIwggHOoIIByqCCAcaGgdVsZGFw
+Oi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMNTY5LGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFM
+JTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04l
+MjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFE
+T1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJj
+ZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29tYi5jcmykgbUwgbIxCzAJBgNVBAYTAkVDMSIw
+IAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UE
+AxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjEPMA0GA1UEAxMGQ1JMNTY5MCsGA1UdEAQk
+MCKADzIwMTgwNjAxMTU0MjE1WoEPMjAyMDA2MDExNjEyMTVaMB8GA1UdIwQYMBaAFBj58PvmMhyZ
+ZjkqyouyaX1JJ7/OMB0GA1UdDgQWBBR7jUg2g2oc+JbkxMttOXHIVseiszAJBgNVHRMEAjAAMBkG
+CSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQAzKIzbnS3PjmYI/r2H
+5rcv76k2on9bNuAwPte+cky0yT+f8R+3onXFchYd340nLsJSl4d9r8xJ2rSlY8madh0dHUdg57mV
+CtFJohEgaQN9c6rZlUbYGs5FzCRuS6EfMaJ50VFlG3IO3+v0GW1v9iWPO0s4OIBTHS8bYSzBpCyw
+Q6LgAq6YXx2coBpINtRV4v3M32Qilga62DOjwbfJq6plf1ivAKUWZTNEi8GAAQ1BfCn6TXnyrPqA
+qkmpgAQAeRl7PnUMn3Kbm4gRIqqCZc0RQJP20kD8HFluVSVu+8BVGwu29dNcjdGfOfqHDMHu4aG2
+gvMY+AaQNbiwCpoiZIzZ9yKOGzoBrd3EsowzUiPY662lCWTfvkBRQN15uyRXoI0Ny2OHn+esathd
+mnwkvekQo5EEyCNAFKN+D8sr+XjlgMQI4CyVWz0BcjvIOa57maYzherppivPuy7H1qKjBOrG4DWC
+joMj0eKnYpbHWzvabnR+kZYQwZ3qWkV3gPifdz5pD6+GewUyzsDjWX4IhtTGcVBUN7IyYQEMQsIp
+FIr+9xH33Re9viEgxlWb99SewUGwIWLH6cUzEaALJeJwqkbRd/W/HkkzZiEiKX6zEZ4xKkhf2O0r
+8zFdLT/AP/n5is51R8/24DXXjnq7bup+gbWCoP5Qrn5rY7MFXv0Sv9MT9w==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
++p7z04GUvJ/9F4aFQ1wDzHI+pOX5TK4s91PAVa1Ontp1dT5BB1FTdR6eQXconO29tNtAg8Mw73sk
+sAT4yl2fky2C6ZVX5atsQgmDmFFXvaM9DGP8yP/vJq4/CVhlE4kG89BegAyxvx7qEygRLbnkacBd
+CtPaGydVoxXMt1PjJ+L+I6ZV6YLXIRvneIU+U49SmXgKeLWREC+YlViMYrKUe+tZw2iOTdnodDvo
+2ZIcwhf2S9cFfV2lL8sYEYBHjP6QSTKMDWuAWZlS14rgxOXfVLtgPojf/M80bGA6BobrovMZ3wAf
+3Any1AZX5J35O2+WwmnE0bg41Q3dZparp3EolQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1021136-Object469566"><etsi:QualifyingProperties Target="#Signature1021136"><etsi:SignedProperties Id="Signature1021136-SignedProperties887429"><etsi:SignedSignatureProperties><etsi:SigningTime>2020-01-16T13:44:44-06:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>A9ntjlYNVIGzDT53V3QUis9ekQ4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1515977524</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-164933"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+  <mensajes/>
+</autorizacion>

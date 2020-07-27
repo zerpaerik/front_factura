@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>0503202001170679007600120010010000005790000725011</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">05/03/2020 11:20:16.000</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>		
+		<ambiente>2</ambiente>		
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>JARAMILLO CRUZ JOSE ANTONINO</razonSocial>
+		<nombreComercial>SAN JOSE ESCULTURA</nombreComercial>
+		<ruc>1706790076001</ruc>
+		<claveAcceso>0503202001170679007600120010010000005790000725011</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000000579</secuencial>
+		<dirMatriz>CALLE GALTE NO. S9-46, PICHINCHA QUITO</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>05/03/2020</fechaEmision>
+		<dirEstablecimiento>CALLE GALTE  S9-42, PICHINCHA QUITO</dirEstablecimiento>
+				<obligadoContabilidad>NO</obligadoContabilidad>
+	
+	
+		<tipoIdentificacionComprador>05</tipoIdentificacionComprador>	
+		<razonSocialComprador>ALEXANDRA MOSHENEK</razonSocialComprador>
+		<identificacionComprador>1708379274</identificacionComprador>
+		<direccionComprador>LUGO N25-185 Y MADRID</direccionComprador>		
+		<totalSinImpuestos>1</totalSinImpuestos>
+
+		
+
+		<totalDescuento>0</totalDescuento>		
+		<totalConImpuestos>
+						
+			<totalImpuesto>				
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>				
+				<baseImponible>1.00</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+						
+		</totalConImpuestos>		
+		<propina>0</propina>
+
+		
+		<importeTotal>1.00</importeTotal>
+		<moneda>DOLAR</moneda>
+				<pagos>
+						<pago>
+				<formaPago>01</formaPago>
+				<total>1.00</total>
+											</pago>
+					</pagos>
+			</infoFactura>
+	<detalles>
+				<detalle>
+			<codigoPrincipal>AM0002</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>TORSO A ELLA PLATA</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>1.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>1</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+			</detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature123673">
+<ds:SignedInfo Id="Signature-SignedInfo191351">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID419754" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature123673-SignedProperties492574">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>e+n5rPUZBWCBzhZjV8cZzB4XTCg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1171730">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>TA6cnF/H8q1BNXnqGlssIIgQb84=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-58010" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>8j/dYKZgWEdIQfIVF4mSF/MPIpk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue545214">
+KOAxwHG4GofR4iRfJ6MWqQRC3asRqCzrpnMaxmuCJhW+PkMMQbZLoKxrWbfKLyrT50EQ2yLTUfxL
+4XNijip+YpO1KwOzHfdJmXlRTBSvRSpizIud6dALkkYHYkH9fpMScQxnM8DxWI2w4QE9SnXbCHut
+YhYHLTcO45O5293osFHLt57oSztqoiyVQB4+NU5q/7Ri1ofKZCXjxDuoPs4WKHNap33cZl8IYAPb
+BWloCOjxjFq5wm4j8F+KAZV7jldfnZsGzm5WVVM+RLBSRaxXFzjFBqH2Ihi0nUEO69Bp2nD9s4Ev
+AQycPV139w79gAmuhW3v17bJbQi4kPLQvmmmJg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1171730">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJXzCCCEegAwIBAgIEXcvyNzANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0yMDAyMjgxNDQyMTdaFw0yNTAyMjgxNTEyMTdaMIGYMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOjATBgNVBAUTDDI4MDIyMDEwMDUwMzAjBgNVBAMT
+HEpPU0UgQU5UT05JTk8gSkFSQU1JTExPIENSVVowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCngalgFuXMj8gDoKivFq8fLI+vY4Iz9d7tLKaRhfS7G0tqiejIN1aOK7SIMTwiBxJ9bk+S
+ECfdYIBaZ+/6wnQ/DHcEcaQaTTHJ5rvw9CML0AXBC3P27psHfUuDkUqDRXsJf1NW7G7CVhJVGHNB
+lw1azgvpWq30K2tCoHw1Txv3crx5C7oGoi2E1yuI0NtL99gn2lBh6YDxZtDoai7mAp3p+7BGyjdJ
+14o3nNAZWYpgVL7v4UmdlHh+UKqUKBoLrr7W7TfZOXY+sVnKlIc6yuIteLq8t/Tm8vX5kE0yHgEs
+hPySG6fFohNAoSlfjQ09G5p0tXTyhP7fkuZiBYHQPmzVAgMBAAGjggWyMIIFrjALBgNVHQ8EBAMC
+BeAwWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHEBgNVHSAEgbwwgbkwPAYKKwYB
+BAGCpnICBzAuMCwGCCsGAQUFBwICMCAaHkNlcnRpZmljYWRvIGRlIFBlcnNvbmEgTmF0dXJhbDB5
+BgorBgEEAYKmcgIBMGswaQYIKwYBBQUHAgEWXWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvbGV5ZXNfbm9ybWF0aXZhcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1
+cmFsLnBkZjAaBgorBgEEAYKmcgMBBAwTCjE3MDY3OTAwNzYwHQYKKwYBBAGCpnIDAgQPEw1KT1NF
+IEFOVE9OSU5PMBkGCisGAQQBgqZyAwMECxMJSkFSQU1JTExPMBQGCisGAQQBgqZyAwQEBhMEQ1JV
+WjAvBgorBgEEAYKmcgMHBCETH0dBTFRFIFM5LTQ2IFkgUk9EUklHTyBERSBDSEFWRVowGwYKKwYB
+BAGCpnIDCAQNEws1OTMyMjY2ODAyNjAVBgorBgEEAYKmcgMJBAcTBVFVSVRPMBcGCisGAQQBgqZy
+AwwECRMHRUNVQURPUjAdBgorBgEEAYKmcgMLBA8TDTE3MDY3OTAwNzYwMDEwHwYKKwYBBAGCpnID
+IAQREw8wMDIwMDEwMDAwNDUxMjYwHQYKKwYBBAGCpnIDIQQPEw1TRUNEQVRLNDI3NDBIMCIGA1Ud
+EQQbMBmBF2FudG9uaWphQHVpby5zYXRuZXQubmV0MIICewYDVR0fBIICcjCCAm4wggJqoIICZqCC
+AmKGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3CGgdVsZGFwOi8vZGlyZWN0LnNlY3VyaXR5ZGF0YS5uZXQuZWMvY249Q1JMNjM4LGNu
+PUFVVE9SSURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMFNVQiUyMFNFQ1VSSVRZJTIwREFUQSxv
+dT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTixvPVNFQ1VS
+SVRZJTIwREFUQSUyMFMuQS4sYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGgZ5o
+dHRwczovL2RpcmVjdC5zZWN1cml0eWRhdGEubmV0LmVjL35jcmwvYXV0b3JpZGFkX2RlX2NlcnRp
+ZmljYWNpb25fc3ViX3NlY3VyaXR5X2RhdGFfZW50aWRhZF9kZV9jZXJ0aWZpY2FjaW9uX2RlX2lu
+Zm9ybWFjaW9uX2N1cml0eV9kYXRhX3MuYS5fY19lY19jcmxmaWxlLmNybKSBpzCBpDELMAkGA1UE
+BhMCRUMxGzAZBgNVBAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBD
+RVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUIgU0VDVVJJVFkgREFUQTEPMA0GA1UEAxMGQ1JMNjM4MCsGA1UdEAQkMCKADzIw
+MjAwMjI4MTQ0MjE3WoEPMjAyNTAyMjgxNTEyMTdaMB8GA1UdIwQYMBaAFPcvTOB152KjeJZbBrYu
+cTvMbD+QMB0GA1UdDgQWBBSbud9JRrE8hvwKtjWgZQOnxFjOMjAJBgNVHRMEAjAAMBkGCSqGSIb2
+fQdBAAQMMAobBFY4LjEDAgOoMA0GCSqGSIb3DQEBCwUAA4IBAQAcrlSA7U5KOd7W0tYqEts1Y4bR
+eIWoxzaUl0Fu4AeS/ruj2oIdL2yaM5w0MgR7b/2zuexHRIAiC02QK3oaKLHiOw/7WDg8Y4FTwzbM
+jKsG0tS2YkUFOH1Gbaqgpt6U8DnHtP4kC+0Ra28ukQZO6LK3wbuJpw4nx2X4qqAo8UtsS0wx2tR2
+O7vDNg/spTZYMhiY4/0m2GnhRLfdbVvxuEIRMjGQSYI4zUTZcQCO1xwuP/pkeeB+ly4AGHDwGOzV
+cKbsO4Iz9hjgH6/S9m0KZaP3kfAEJTW1Si2yq5c6wGvxpuodtSYM4byHeQpzD7iSTT4X+fuuYLv9
+KBfFAcw7jvYw
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+p4GpYBblzI/IA6CorxavHyyPr2OCM/Xe7SymkYX0uxtLaonoyDdWjiu0iDE8IgcSfW5PkhAn3WCA
+Wmfv+sJ0Pwx3BHGkGk0xyea78PQjC9AFwQtz9u6bB31Lg5FKg0V7CX9TVuxuwlYSVRhzQZcNWs4L
+6Vqt9CtrQqB8NU8b93K8eQu6BqIthNcriNDbS/fYJ9pQYemA8WbQ6Gou5gKd6fuwRso3SdeKN5zQ
+GVmKYFS+7+FJnZR4flCqlCgaC66+1u032Tl2PrFZypSHOsriLXi6vLf05vL1+ZBNMh4BLIT8khun
+xaITQKEpX40NPRuadLV08oT+35LmYgWB0D5s1Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature123673-Object259651"><etsi:QualifyingProperties Target="#Signature123673"><etsi:SignedProperties Id="Signature123673-SignedProperties492574"><etsi:SignedSignatureProperties><etsi:SigningTime>2020-03-05T11:20:13-06:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>oCHnsoscHwAF1zQRWWsvsziPv3o=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1573646903</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-58010"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+  <mensajes/>
+</autorizacion>

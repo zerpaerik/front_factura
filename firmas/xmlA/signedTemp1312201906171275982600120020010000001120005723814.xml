@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?><autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>1312201906171275982600120020010000001120005723814</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">13/12/2019 15:34:01.000</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><guiaRemision id="comprobante" version="1.0.0">
+	<infoTributaria>		
+		<ambiente>2</ambiente>		
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>ROSANA GUADALUPE RODRIGUEZ JARAMILLO</razonSocial>
+				<nombreComercial>SAGRADO CORAZON</nombreComercial>
+				<ruc>1712759826001</ruc>
+		<claveAcceso>1312201906171275982600120020010000001120005723814</claveAcceso>
+		<codDoc>06</codDoc>
+		<estab>002</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000000112</secuencial>
+		<dirMatriz>EPLICACHIMA S9-204 Y JAMBELI</dirMatriz>
+	</infoTributaria>	
+	
+	<infoGuiaRemision>
+		<dirEstablecimiento>VILLA FLORA</dirEstablecimiento>
+		<dirPartida>QUITO</dirPartida>
+		<razonSocialTransportista>CESAR EUGENIO SIMBAÑA GUACHAMIN</razonSocialTransportista>
+		<tipoIdentificacionTransportista>05</tipoIdentificacionTransportista>
+		<rucTransportista>1705637674</rucTransportista>
+		<rise>Contribuyente Regimen Simplificado RISE</rise>
+					<obligadoContabilidad>NO</obligadoContabilidad>
+				
+				
+		<fechaIniTransporte>13/12/2019</fechaIniTransporte>
+		<fechaFinTransporte>16/12/2019</fechaFinTransporte>
+		<placa>PBT1527</placa>
+	</infoGuiaRemision>
+
+	<destinatarios>
+		<destinatario>
+			<identificacionDestinatario>352418255</identificacionDestinatario>
+			<razonSocialDestinatario>GINA HORECKY</razonSocialDestinatario>
+			<dirDestinatario>11417 SW Hillcrest Cir  Port Saint Lucie Florida 34987, MIAMI FLORIDA</dirDestinatario>
+			<motivoTraslado>EXPORTACION</motivoTraslado>
+							<docAduaneroUnico>0</docAduaneroUnico>
+						<codEstabDestino>002</codEstabDestino>
+			<ruta>AEREA</ruta>
+			<codDocSustento>01</codDocSustento>
+			<numDocSustento>002-001-000000457</numDocSustento>
+			<numAutDocSustento>1312201901171275982600120020010000004570007246414</numAutDocSustento>
+			<fechaEmisionDocSustento>13/12/2019</fechaEmisionDocSustento>			
+			<detalles>
+									<detalle>
+						<codigoInterno>14589</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>ANGEL ADORADOR MILICIA CELESTIAL  IZQUIERDO 50CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>14572</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>ANGEL ADORADOR MILICIA CELESTIAL DERECHO 50CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>15777</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>CORAZON DE JESUS BENDICIENDO 150CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>05020</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>CORAZON DE JESUS 30CM</descripcion>
+						<cantidad>11.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>05037</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>CORAZON DE JESUS BARROCO  45CM</descripcion>
+						<cantidad>4.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>01459</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>CORAZON DE JESUS MANOS AL PECHO PELO CORTO  114CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>11410</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>CRISTO MUERTO TIPO MADERA 45CM  (84CM)</descripcion>
+						<cantidad>5.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>00049</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>CRISTO AGONICO             45CM     (84CM)</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>04993</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>RESUCITADO 80CM CON BASE</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>06409</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>CRISTO No. 2  MUERTO 30CM   (62CM)</descripcion>
+						<cantidad>5.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>17658</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>CRISTO DE LA PRECIOSA SANGRE INGLES 43CM (CUERPO 21CM)</descripcion>
+						<cantidad>20.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>04528</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>MADRE CABRINI 150CM APLIQUE</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>13742</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>MANO DE DIOS PROVIDA 14CM</descripcion>
+						<cantidad>7.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>18877</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAN BENITO MEDALLA  6"</descripcion>
+						<cantidad>51.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>00155</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>NIÑO No.5   21CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>04221</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAN FRANCISCO CON LOBO 120CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>06119</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>ARCANGEL GABRIEL COLECCION 45CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>07925</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAN IGNACIO DE LOYOLA COLONIAL  60CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>18501</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAN JOSE 120CM MODELO NUEVO CON NIÑO</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>06331</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAN JOSE CON NIÑO 82CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>04368</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAN JOSE 111CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>04856</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAN MARTIN DE PORRES  28CM</descripcion>
+						<cantidad>6.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>06126</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>ARCANGEL RAFAEL COLECCION 45CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>04580</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SANTA TERESITA 60CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>14497</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SEÑOR DE LA EUCARISTIA 80CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>09226</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DEL BUEN SUCESO 37CM</descripcion>
+						<cantidad>30.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03286</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE FATIMA 42CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03293</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE FATIMA   62CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03316</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE FATIMA 84CM </descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03538</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA MISERICORDIA 82CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03408</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LOURDES 30CM</descripcion>
+						<cantidad>4.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>11243</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DEL BUEN SUCESO 65CM</descripcion>
+						<cantidad>4.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>13612</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA ESPERANZA 42CM</descripcion>
+						<cantidad>6.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>14138</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA EUCARISTIA 45CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03545</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN MEDALLA MILAGROSA 125CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03484</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN MEDALLA MILAGROSA No. 2  25CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03514</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN MEDALLA MILAGROSA  60CM CLASICA</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>17863</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN ROSA MISTICA ESPADAS CON AUREOLA</descripcion>
+						<cantidad>4.000000</cantidad>										
+					</detalle>
+							</detalles>
+		</destinatario>
+	</destinatarios>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature393181">
+<ds:SignedInfo Id="Signature-SignedInfo954111">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID231805" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature393181-SignedProperties425235">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>NJyKkg3+XHZj7Uhd6rr2q+PJPhw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1572143">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qnyk2DcAqvEwK0O+8sornevhh+M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-549156" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6bl7ZOgBMWmMxEMrnYMWxhZ6xHQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue219063">
++bqs67MqikEGSGiOliqghKrRmylZGMAeLno1t3s4wMWR4A5pUOPm2nWAmWvR1lCkOvtJ0+RMCQfE
+2jAEbhLxm6CKNIBX+3fRG+GNMw+nErbFKjJlHmTcMjEHG5vpn5Dyvi63eUd5Bi3J+kcexcD4Y+Fk
+1eRyWPl7Eygd0z8D5DGdi/sBbAiEJ4+9YxM9UuegH/VbWmz5EhyKt5f1uqweQVIuWnbeioi+SSNn
+0RyoArfHrTwWPof3B5jeggTExiiMHcny8Yqz7pUNbx5YCDz3irgBACxS6WCDHUesIGwGPhLMYYtm
+UqSHQVWCc3vR8M/jw5KYALL4BJMVcUOUCuD/Kw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1572143">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJujCCB6KgAwIBAgIEWlv7NDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE4MDYwMTE1NDIxNVoXDTIwMDYwMTE2MTIx
+NVowgbwxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzFAMBEGA1UEBRMKMDAwMDExNTIwNTArBgNVBAMTJFJPU0FOQSBHVUFEQUxV
+UEUgUk9EUklHVUVaIEpBUkFNSUxMTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAPqe
+89OBlLyf/ReGhUNcA8xyPqTl+UyuLPdTwFWtTp7adXU+QQdRU3UenkF3KJztvbTbQIPDMO97JLAE
++Mpdn5MtgumVV+WrbEIJg5hRV72jPQxj/Mj/7yauPwlYZROJBvPQXoAMsb8e6hMoES255GnAXQrT
+2hsnVaMVzLdT4yfi/iOmVemC1yEb53iFPlOPUpl4Cni1kRAvmJVYjGKylHvrWcNojk3Z6HQ76NmS
+HMIX9kvXBX1dpS/LGBGAR4z+kEkyjA1rgFmZUteK4MTl31S7YD6I3/zPNGxgOgaG66LzGd8AH9wJ
+8tQGV+Sd+TtvlsJpxNG4ONUN3WaWq6dxKJUCAwEAAaOCBNswggTXMAsGA1UdDwQEAwIHgDBmBgNV
+HSAEXzBdMFsGCysGAQQBgqg7AgEBMEwwSgYIKwYBBQUHAgEWPmh0dHA6Ly93d3cuZWNpLmJjZS5l
+Yy9wb2xpdGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLW5hdHVyYWwucGRmMIGRBggrBgEFBQcBAQSB
+hDCBgTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcDAaBgorBgEEAYKoOwMBBAwTCjE3MTI3NTk4MjYwIAYKKwYBBAGC
+qDsDAgQSExBST1NBTkEgR1VBREFMVVBFMBkGCisGAQQBgqg7AwMECxMJUk9EUklHVUVaMBkGCisG
+AQQBgqg7AwQECxMJSkFSQU1JTExPMDUGCisGAQQBgqg7AwcEJxMlTUFSSUFOQSBERSBKRVNVUyAx
+NDk4IFkgTUFOVUVMQSBTQUVOWjAZBgorBgEEAYKoOwMIBAsTCTAyMjY2MDE4NTAVBgorBgEEAYKo
+OwMJBAcTBVF1aXRvMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAdBgorBgEEAYKoOwMLBA8TDTE3
+MTI3NTk4MjYwMDEwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMB8GA1UdEQQYMBaB
+FHNoYW55cm9kQGhvdG1haWwuY29tMIIB3wYDVR0fBIIB1jCCAdIwggHOoIIByqCCAcaGgdVsZGFw
+Oi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMNTY5LGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFM
+JTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04l
+MjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFE
+T1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJj
+ZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29tYi5jcmykgbUwgbIxCzAJBgNVBAYTAkVDMSIw
+IAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UE
+AxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjEPMA0GA1UEAxMGQ1JMNTY5MCsGA1UdEAQk
+MCKADzIwMTgwNjAxMTU0MjE1WoEPMjAyMDA2MDExNjEyMTVaMB8GA1UdIwQYMBaAFBj58PvmMhyZ
+ZjkqyouyaX1JJ7/OMB0GA1UdDgQWBBR7jUg2g2oc+JbkxMttOXHIVseiszAJBgNVHRMEAjAAMBkG
+CSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQAzKIzbnS3PjmYI/r2H
+5rcv76k2on9bNuAwPte+cky0yT+f8R+3onXFchYd340nLsJSl4d9r8xJ2rSlY8madh0dHUdg57mV
+CtFJohEgaQN9c6rZlUbYGs5FzCRuS6EfMaJ50VFlG3IO3+v0GW1v9iWPO0s4OIBTHS8bYSzBpCyw
+Q6LgAq6YXx2coBpINtRV4v3M32Qilga62DOjwbfJq6plf1ivAKUWZTNEi8GAAQ1BfCn6TXnyrPqA
+qkmpgAQAeRl7PnUMn3Kbm4gRIqqCZc0RQJP20kD8HFluVSVu+8BVGwu29dNcjdGfOfqHDMHu4aG2
+gvMY+AaQNbiwCpoiZIzZ9yKOGzoBrd3EsowzUiPY662lCWTfvkBRQN15uyRXoI0Ny2OHn+esathd
+mnwkvekQo5EEyCNAFKN+D8sr+XjlgMQI4CyVWz0BcjvIOa57maYzherppivPuy7H1qKjBOrG4DWC
+joMj0eKnYpbHWzvabnR+kZYQwZ3qWkV3gPifdz5pD6+GewUyzsDjWX4IhtTGcVBUN7IyYQEMQsIp
+FIr+9xH33Re9viEgxlWb99SewUGwIWLH6cUzEaALJeJwqkbRd/W/HkkzZiEiKX6zEZ4xKkhf2O0r
+8zFdLT/AP/n5is51R8/24DXXjnq7bup+gbWCoP5Qrn5rY7MFXv0Sv9MT9w==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
++p7z04GUvJ/9F4aFQ1wDzHI+pOX5TK4s91PAVa1Ontp1dT5BB1FTdR6eQXconO29tNtAg8Mw73sk
+sAT4yl2fky2C6ZVX5atsQgmDmFFXvaM9DGP8yP/vJq4/CVhlE4kG89BegAyxvx7qEygRLbnkacBd
+CtPaGydVoxXMt1PjJ+L+I6ZV6YLXIRvneIU+U49SmXgKeLWREC+YlViMYrKUe+tZw2iOTdnodDvo
+2ZIcwhf2S9cFfV2lL8sYEYBHjP6QSTKMDWuAWZlS14rgxOXfVLtgPojf/M80bGA6BobrovMZ3wAf
+3Any1AZX5J35O2+WwmnE0bg41Q3dZparp3EolQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature393181-Object301553"><etsi:QualifyingProperties Target="#Signature393181"><etsi:SignedProperties Id="Signature393181-SignedProperties425235"><etsi:SignedSignatureProperties><etsi:SigningTime>2019-12-13T15:34:17-06:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>A9ntjlYNVIGzDT53V3QUis9ekQ4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1515977524</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-549156"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></guiaRemision>]]></comprobante>
+  <mensajes/>
+</autorizacion>

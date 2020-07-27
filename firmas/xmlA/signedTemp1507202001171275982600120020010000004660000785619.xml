@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>1507202001171275982600120020010000004660000785619</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">15/07/2020 12:21:33.000</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>		
+		<ambiente>2</ambiente>		
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>ROSANA GUADALUPE RODRIGUEZ JARAMILLO</razonSocial>
+		<nombreComercial>SAGRADO CORAZON</nombreComercial>
+		<ruc>1712759826001</ruc>
+		<claveAcceso>1507202001171275982600120020010000004660000785619</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>002</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000000466</secuencial>
+		<dirMatriz>EPLICACHIMA S9-204 Y JAMBELI</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>15/07/2020</fechaEmision>
+		<dirEstablecimiento>VILLA FLORA</dirEstablecimiento>
+				<obligadoContabilidad>NO</obligadoContabilidad>
+	
+	
+		<tipoIdentificacionComprador>05</tipoIdentificacionComprador>	
+		<razonSocialComprador>SUSANA CAIZA</razonSocialComprador>
+		<identificacionComprador>1712574555</identificacionComprador>
+		<direccionComprador>TUMBACO</direccionComprador>		
+		<totalSinImpuestos>260</totalSinImpuestos>
+
+		
+
+		<totalDescuento>0</totalDescuento>		
+		<totalConImpuestos>
+						
+			<totalImpuesto>				
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>				
+				<baseImponible>260.00</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+						
+		</totalConImpuestos>		
+		<propina>0</propina>
+
+		
+		<importeTotal>260.00</importeTotal>
+		<moneda>DOLAR</moneda>
+				<pagos>
+						<pago>
+				<formaPago>19</formaPago>
+				<total>260.00</total>
+											</pago>
+					</pagos>
+			</infoFactura>
+	<detalles>
+				<detalle>
+			<codigoPrincipal>07659</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DEL CARMEN CLASICA 80CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>200.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>200</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>200</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>S0003</codigoPrincipal>
+						<codigoAuxiliar>7019.19.000</codigoAuxiliar>
+						<descripcion>ACCESORIOS</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>20.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>20</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>20</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>S0003</codigoPrincipal>
+						<codigoAuxiliar>7019.19.000</codigoAuxiliar>
+						<descripcion>ACCESORIOS</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>40.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>40</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>40</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+			</detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature739801">
+<ds:SignedInfo Id="Signature-SignedInfo781319">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID1008649" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature739801-SignedProperties371273">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kEgJiQ7S2NFDUFDrPlKGSCOuCK8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1471814">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>JaF0U/n7lQohkGU25TBH3ApqiSE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-890203" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6ZfV6XJbpNZiUdVmTmouYKsCXa0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue933650">
+WGjy3cpr8EDAXcM8NFsv0H9nQUKzz5uhSSTsUspg3lcEsz/tdjESu3ZY6A2P7Bv0oLY4DDEjrzKO
+J8G5buGDIxChnz+znWY8bfAWaBoqUXEo8cqM0/8sQzPM4B0gzdZQDTHlZ4vi5t7uJsPc/AwgPAQ9
+TGrDBRX40OpxWoAU+CafH1ny9qxiiAUFDya3ZVJrk3fKnYyRDyGuI5P2ZnBXwOQwIzudhlAZHxxR
+9XZXVv+BgPnYbwbWXtqtrhlGGC2ToNw/1qeJOlMvMhVvVegYvB3bbijMXv3vJIWVPQTVvgg+JYBz
+T3uePgiUrjAIW3youFEt+i7BhQbl34SKo74aDQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1471814">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJujCCB6KgAwIBAgIEW2PUuDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIwMDYxNzE1NDc1M1oXDTIyMDYxNzE2MTc1
+M1owgbwxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzFAMBEGA1UEBRMKMDAwMDExNTIwNTArBgNVBAMTJFJPU0FOQSBHVUFEQUxV
+UEUgUk9EUklHVUVaIEpBUkFNSUxMTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANle
+0cPvaoNBczqPIOnMmK4p+NpoS0/Z1ryF1kNfn0jZxpWNEzVMW1mUEqwvZFKtIShFwSBCakwLu9hE
+CiDrpfA24jebMSMSp3WLcr/yLbdEU9Y8zLEiPMh4IoPPPR/iSlRiWT734UnfmvJbv7pEbqaK7UZy
+lbhGZBp5NJ1p4oPZ+GF3O5mGhdPoJisNzI3n2pDLAGQUu/EF+XraE9HRWdu38TP/yv2HcCmubeGp
+2tP2VxGO7ItgiXztN+i6rnjuCRxayQ0ws5zd8HgNblsdd7DlKiarObanuBOv5iK6FItI+8myvkE4
+baanyOa3x8CxWsfhoirKUZDffB6OT9kY350CAwEAAaOCBNswggTXMAsGA1UdDwQEAwIHgDBmBgNV
+HSAEXzBdMFsGCysGAQQBgqg7AgEBMEwwSgYIKwYBBQUHAgEWPmh0dHA6Ly93d3cuZWNpLmJjZS5l
+Yy9wb2xpdGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLW5hdHVyYWwucGRmMIGRBggrBgEFBQcBAQSB
+hDCBgTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcDAaBgorBgEEAYKoOwMBBAwTCjE3MTI3NTk4MjYwIAYKKwYBBAGC
+qDsDAgQSExBST1NBTkEgR1VBREFMVVBFMBkGCisGAQQBgqg7AwMECxMJUk9EUklHVUVaMBkGCisG
+AQQBgqg7AwQECxMJSkFSQU1JTExPMDUGCisGAQQBgqg7AwcEJxMlTUFSSUFOQSBERSBKRVNVUyAx
+NDk4IFkgTUFOVUVMQSBTQUVOWjAZBgorBgEEAYKoOwMIBAsTCTAyMjY2MDE4NTAVBgorBgEEAYKo
+OwMJBAcTBVF1aXRvMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAdBgorBgEEAYKoOwMLBA8TDTE3
+MTI3NTk4MjYwMDEwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMB8GA1UdEQQYMBaB
+FHNoYW55cm9kQGhvdG1haWwuY29tMIIB3wYDVR0fBIIB1jCCAdIwggHOoIIByqCCAcaGgdVsZGFw
+Oi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMOTg1LGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFM
+JTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04l
+MjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFE
+T1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJj
+ZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29tYi5jcmykgbUwgbIxCzAJBgNVBAYTAkVDMSIw
+IAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UE
+AxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjEPMA0GA1UEAxMGQ1JMOTg1MCsGA1UdEAQk
+MCKADzIwMjAwNjE3MTU0NzUzWoEPMjAyMjA2MTcxNjE3NTNaMB8GA1UdIwQYMBaAFEii3yMfHfgs
+UXqMA81JMqUJwZSrMB0GA1UdDgQWBBT4AqNuH1n3UyehTnfY8eycgnttTzAJBgNVHRMEAjAAMBkG
+CSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQBgQgaMmjQeqmF1/8gC
+f9YPK1yHLlMQF6qoz1uTnGFBBukLdFTtEycAJmYivxE5PWYHLSiuc4YlP8yBTi2WTU+yw+DZdO19
+FcGbw9VaJPdwps50CJeA9uQg1pc0NpvVM/1JzpSwJgvtsucrphGJdjQVieGGKu4O2V5IIMvd8ItZ
+p3pb70wYPQjiVgbzyYoGUWx/jAoBYlOjhzisUzotchIh314zoLcEtjl+6Eg1tI9dmnW9gOCGzSoR
+GrmAu+lHR9Ol8U4zz1BRva3ZvHrv9WOPIO8vxUgGZGj0SavC22sL4gnsD9NMkevTDMUCiFR8k0/v
+bU1EJIkK8GUUcUb9zUjY7NyjxChP9qZrtyoI2JmP2QovG4BJIQoBoitf9rM3BFhQq4uXKDBfnTKR
+qS9YAZhZB+qYkHZdNt2svLqGf7dHZUgmFT4iwZuH5QQre3vVy8QpyXAICgHV+hexoRIfLg+EOgRU
+8RbLEi98m6MD4NlFMR5um7UCbGo1kijFWyxi7zkS543jhD68cogxs4g1z5rKeGWKc6oLGKavuky+
+ybwSPH0vHjgCXFicrHs5MITS+xQ+uxgT6+YXdqvRFWSmYOm501Zbw2DKwxgqJuTA4FyUq2CjXZTj
+eLHMj9gcc4Gf6Wh92uqxdbW5mbYjgh5dLrJt3ZpSyT4qHWSKJRBVcA1MIQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+2V7Rw+9qg0FzOo8g6cyYrin42mhLT9nWvIXWQ1+fSNnGlY0TNUxbWZQSrC9kUq0hKEXBIEJqTAu7
+2EQKIOul8DbiN5sxIxKndYtyv/Itt0RT1jzMsSI8yHgig889H+JKVGJZPvfhSd+a8lu/ukRuport
+RnKVuEZkGnk0nWnig9n4YXc7mYaF0+gmKw3MjefakMsAZBS78QX5etoT0dFZ27fxM//K/YdwKa5t
+4ana0/ZXEY7si2CJfO036LqueO4JHFrJDTCznN3weA1uWx13sOUqJqs5tqe4E6/mIroUi0j7ybK+
+QThtpqfI5rfHwLFax+GiKspRkN98Ho5P2RjfnQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature739801-Object593825"><etsi:QualifyingProperties Target="#Signature739801"><etsi:SignedProperties Id="Signature739801-SignedProperties371273"><etsi:SignedSignatureProperties><etsi:SigningTime>2020-07-15T12:21:35-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>hocIy4F2221cINFtJ4/YALrDfXs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533269176</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-890203"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+  <mensajes/>
+</autorizacion>

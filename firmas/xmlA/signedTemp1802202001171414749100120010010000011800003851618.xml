@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>1802202001171414749100120010010000011800003851618</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">18/02/2020 08:10:56.000</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>		
+		<ambiente>2</ambiente>		
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>JARAMILLO FERRIN MARIA EUGENIA</razonSocial>
+		<nombreComercial>GUAN YIN ART SUPPLIES</nombreComercial>
+		<ruc>1714147491001</ruc>
+		<claveAcceso>1802202001171414749100120010010000011800003851618</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000001180</secuencial>
+		<dirMatriz>Ecuador</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>18/02/2020</fechaEmision>
+		<dirEstablecimiento>PICHINCHA / QUITO / LA MAGDALENA / GALTE S9-46 Y RODRIGO DE CHAVEZ</dirEstablecimiento>
+				<obligadoContabilidad>NO</obligadoContabilidad>
+	
+	
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>	
+		<razonSocialComprador>TRECX S.A.</razonSocialComprador>
+		<identificacionComprador>1791812484001</identificacionComprador>
+		<direccionComprador>RUMIHURCO OE4-365 Y PEDRO FREILE</direccionComprador>		
+		<totalSinImpuestos>3580</totalSinImpuestos>
+
+		
+
+		<totalDescuento>0</totalDescuento>		
+		<totalConImpuestos>
+						
+			<totalImpuesto>				
+				<codigo>2</codigo>
+				<codigoPorcentaje>2</codigoPorcentaje>				
+				<baseImponible>3580.00</baseImponible>
+				<valor>429.60</valor>
+			</totalImpuesto>
+						
+		</totalConImpuestos>		
+		<propina>0</propina>
+
+		
+		<importeTotal>4009.60</importeTotal>
+		<moneda>DOLAR</moneda>
+				<pagos>
+						<pago>
+				<formaPago>01</formaPago>
+				<total>4009.60</total>
+											</pago>
+					</pagos>
+			</infoFactura>
+	<detalles>
+				<detalle>
+			<codigoPrincipal>001</codigoPrincipal>
+						<codigoAuxiliar>N001</codigoAuxiliar>
+						<descripcion>CAUCHO DE SILICON 625 P1K</descripcion>
+			<cantidad>200.000000</cantidad>
+			<precioUnitario>17.900000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>3580</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>3580</baseImponible>
+					<valor>429.6</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+			</detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature178991">
+<ds:SignedInfo Id="Signature-SignedInfo117476">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID450836" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature178991-SignedProperties858718">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>BW7naKKPvAU4UAolBEkjL4Izs/M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1703443">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>VHv1Y6xjvuJy5XQthBy2sa3UfWg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-285481" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>pyUoOhlRtWGqOArFLvfNZDl4EQQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue679496">
+pPhwcZ6EBA9BG9E9BGIV6SoWmoqq/axH48GtxGcab5vCXsY9u45yjbZ8huLt5XXLgxD4iYY7VYQa
+WWQ+Nc7iEdE3/guJAW+gl8lTIGiwBOazEobRF2ppMjaax+htNfJKcbbpdpd3ZoZe4D/g5Sqr7S3P
+y5YsI42WqhZduVSHezRUJNx7X/pAY8ES6UaEpexqJbcSG8ZzrsF13IGT8OD1VH4hgyhPPwig+nZy
+tUJf6+4w63ap/onvEqW3SKPzyjv8/ko6R3uDVDLwi2tq60MFzmJpldkE4oSl5esOzvculs1rz4af
+G0xelOsf9OfxNU5V/Q8ezqykkUS+DFuZK7RVIQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1703443">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJVjCCCD6gAwIBAgIEVM+eAzANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0xNzEwMTExNDI4MDJaFw0yMzEwMTExNDU4MDJaMIGaMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xPDATBgNVBAUTDDEwMTAxNzExNDgzNzAlBgNVBAMT
+Hk1BUklBIEVVR0VOSUEgSkFSQU1JTExPIEZFUlJJTjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAKmjEufWCD51YcHpoREOV2W49PTIUsg6zeMJ7DDbItRxg/RQCwNa2OaGjDLMMXG5wG1Q
+aKdab0zgrcyaGVt/4lO5JvblMkAqhBmiFFRBRYYF4v28FiIMKXTZyG7aeZaPWQsgkKxXJr9Qsg2W
+GCWQ/o45/d7uTog/BsjidI1Ydx3JMd2vqigaX5AaK85hgkuSAChReQ2ga+RPMscX0aoL/cijaQOk
+kxYgDiV+7b+BHaopizFVz3wc+LwIV3YRmUcBPuCfpMB/zeB8dihNkHf24CEW3WVnn4UsFWb1n8Ev
+CJ6/y4L7VsOViQO0vGUAqm7m27kTYGKm+Z1vtZZicEgn2B8CAwEAAaOCBacwggWjMAsGA1UdDwQE
+AwIF4DBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwgcQGA1UdIASBvDCBuTA8Bgor
+BgEEAYKmcgIHMC4wLAYIKwYBBQUHAgIwIBoeQ2VydGlmaWNhZG8gZGUgUGVyc29uYSBOYXR1cmFs
+MHkGCisGAQQBgqZyAgEwazBpBggrBgEFBQcCARZdaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5l
+dC5lYy9sZXllc19ub3JtYXRpdmFzL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5h
+dHVyYWwucGRmMBoGCisGAQQBgqZyAwEEDBMKMTcxNDE0NzQ5MTAdBgorBgEEAYKmcgMCBA8TDU1B
+UklBIEVVR0VOSUEwGQYKKwYBBAGCpnIDAwQLEwlKQVJBTUlMTE8wFgYKKwYBBAGCpnIDBAQIEwZG
+RVJSSU4wLwYKKwYBBAGCpnIDBwQhEx9HQUxURSBTOS00NiBZIFJPRFJJR08gREUgQ0hBVkVaMBsG
+CisGAQQBgqZyAwgEDRMLNTkzMjI2NjM5MDEwFQYKKwYBBAGCpnIDCQQHEwVRVUlUTzAXBgorBgEE
+AYKmcgMMBAkTB0VDVUFET1IwHQYKKwYBBAGCpnIDCwQPEw0xNzE0MTQ3NDkxMDAxMB8GCisGAQQB
+gqZyAyAEERMPMDAyMDAxMDAwMDE4MjMwMBMGCisGAQQBgqZyAyEEBRMDUEZYMB8GA1UdEQQYMBaB
+FGV1Z2VqYXJhQGhvdG1haWwuY29tMIICewYDVR0fBIICcjCCAm4wggJqoIICZqCCAmKGPWh0dHA6
+Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CG
+gdVsZGFwOi8vZGlyZWN0LnNlY3VyaXR5ZGF0YS5uZXQuZWMvY249Q1JMMTMwLGNuPUFVVE9SSURB
+RCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMFNVQiUyMFNFQ1VSSVRZJTIwREFUQSxvdT1FTlRJREFE
+JTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTixvPVNFQ1VSSVRZJTIwREFU
+QSUyMFMuQS4sYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGgZ5odHRwczovL2Rp
+cmVjdC5zZWN1cml0eWRhdGEubmV0LmVjL35jcmwvYXV0b3JpZGFkX2RlX2NlcnRpZmljYWNpb25f
+c3ViX3NlY3VyaXR5X2RhdGFfZW50aWRhZF9kZV9jZXJ0aWZpY2FjaW9uX2RlX2luZm9ybWFjaW9u
+X2N1cml0eV9kYXRhX3MuYS5fY19lY19jcmxmaWxlLmNybKSBpzCBpDELMAkGA1UEBhMCRUMxGzAZ
+BgNVBAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBT
+VUIgU0VDVVJJVFkgREFUQTEPMA0GA1UEAxMGQ1JMMTMwMCsGA1UdEAQkMCKADzIwMTcxMDExMTQy
+ODAyWoEPMjAyMzEwMTExNDU4MDJaMB8GA1UdIwQYMBaAFPcvTOB152KjeJZbBrYucTvMbD+QMB0G
+A1UdDgQWBBTvHABrq1c+VO34jDYknU9VO107jTAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAob
+BFY4LjEDAgOoMA0GCSqGSIb3DQEBCwUAA4IBAQBn1aaFpv9Y8l9bRmdCZF/uHyMUagGPJJQJjbHV
+tKyYzxaev2LpeMhNXfW1mTaqZea4MKDyBxVM0GZWbTVugwzEpo1Hj9Tyoh5C+WDWziRQrx/wSOoK
+7N6RXw4TKA1dKWqJzqAoK+1PXeKkj5XLo81nv7DfVmeY5ZMmQ7wxtYUHvW/muULKU6jRDGE7Spa0
+JiVP0HAA3qdLTZZscNMhz1hFN7epYPSKcuQJTvy1fo/+6uBIPUDySkQb6ubkeDcpuV0t0T2egtla
+BnxVhiuTvDF4N0oNqqxKo1+xeTv9IwadeS/uGZZudMJ8BQwvE9ZCBKyNpRGjhhiii/mfNkbcVIQO
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qaMS59YIPnVhwemhEQ5XZbj09MhSyDrN4wnsMNsi1HGD9FALA1rY5oaMMswxcbnAbVBop1pvTOCt
+zJoZW3/iU7km9uUyQCqEGaIUVEFFhgXi/bwWIgwpdNnIbtp5lo9ZCyCQrFcmv1CyDZYYJZD+jjn9
+3u5OiD8GyOJ0jVh3Hckx3a+qKBpfkBorzmGCS5IAKFF5DaBr5E8yxxfRqgv9yKNpA6STFiAOJX7t
+v4EdqimLMVXPfBz4vAhXdhGZRwE+4J+kwH/N4Hx2KE2Qd/bgIRbdZWefhSwVZvWfwS8Inr/LgvtW
+w5WJA7S8ZQCqbubbuRNgYqb5nW+1lmJwSCfYHw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature178991-Object1020924"><etsi:QualifyingProperties Target="#Signature178991"><etsi:SignedProperties Id="Signature178991-SignedProperties858718"><etsi:SignedSignatureProperties><etsi:SigningTime>2020-02-18T08:10:53-06:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Jn5oZJhC5dj+4/8+bkszUaF4gWs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1422892547</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-285481"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+  <mensajes/>
+</autorizacion>

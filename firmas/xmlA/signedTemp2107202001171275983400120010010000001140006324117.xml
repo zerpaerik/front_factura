@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>2107202001171275983400120010010000001140006324117</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">21/07/2020 14:07:18.000</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>		
+		<ambiente>2</ambiente>		
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>RODRIGUEZ JARAMILLO CARLA VIVIANA</razonSocial>
+		<nombreComercial>TALLER SANTARITA</nombreComercial>
+		<ruc>1712759834001</ruc>
+		<claveAcceso>2107202001171275983400120010010000001140006324117</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000000114</secuencial>
+		<dirMatriz>PICHICHA/QUTO/LA MAGDALENA/AV. 5 DE JUNIO S9-65 Y RODRIGO DE CHAVEZ</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>21/07/2020</fechaEmision>
+		<dirEstablecimiento>CALLE AV. 5 DE JUNIO NO. S9-65, PICHINCHA QUITO</dirEstablecimiento>
+				<obligadoContabilidad>NO</obligadoContabilidad>
+	
+			<comercioExterior>EXPORTADOR</comercioExterior>
+		<incoTermFactura>FOB</incoTermFactura>
+		<lugarIncoTerm>Quito</lugarIncoTerm>
+		<paisOrigen>593</paisOrigen>
+		<puertoEmbarque>Quito</puertoEmbarque>
+		<puertoDestino>CHICAGO</puertoDestino>
+		<paisDestino>110</paisDestino>
+		<paisAdquisicion>593</paisAdquisicion>
+	
+		<tipoIdentificacionComprador>06</tipoIdentificacionComprador>	
+		<razonSocialComprador>INSPIRED ARTISANS LTD</razonSocialComprador>
+		<identificacionComprador>391898201</identificacionComprador>
+		<direccionComprador>505 N.  22ND ST, MILWAUKEE, WI 53233, USA</direccionComprador>		
+		<totalSinImpuestos>2000</totalSinImpuestos>
+
+			<incoTermTotalSinImpuestos>FOB</incoTermTotalSinImpuestos>
+		
+
+		<totalDescuento>0</totalDescuento>		
+		<totalConImpuestos>
+						
+			<totalImpuesto>				
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>				
+				<baseImponible>2000.00</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+						
+		</totalConImpuestos>		
+		<propina>0</propina>
+
+					<fleteInternacional>0.0000</fleteInternacional>
+			<seguroInternacional>0.0000</seguroInternacional>
+			<gastosAduaneros>0.0000</gastosAduaneros>
+			<gastosTransporteOtros>0.0000</gastosTransporteOtros>
+		
+		<importeTotal>2000.00</importeTotal>
+		<moneda>DOLAR</moneda>
+				<pagos>
+						<pago>
+				<formaPago>20</formaPago>
+				<total>2000.00</total>
+											</pago>
+					</pagos>
+			</infoFactura>
+	<detalles>
+				<detalle>
+			<codigoPrincipal>GTSC60</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>STATIONS OF THE CROSS MOLD 60CM</descripcion>
+			<cantidad>14.000000</cantidad>
+			<precioUnitario>100.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1400</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>1400</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>06362</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>CRISTO 135CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>500.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>500</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>500</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>GTC55</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>CIRCLE 55CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>25.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>50</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>50</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>GTC30</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>CIRCLE 30CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>20.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>20</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>20</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>GTCR8</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>CRUCIFIX 8CM</descripcion>
+			<cantidad>6.000000</cantidad>
+			<precioUnitario>5.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>30</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>30</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+			</detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature794085">
+<ds:SignedInfo Id="Signature-SignedInfo388369">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID957001" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature794085-SignedProperties784800">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>bjZst2EMdTVUlsJMQ/LTmMo4zCQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1263639">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>CjY/gLEWFp/oAQTFuqtCoAI4+M8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-651761" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>B5yT/y92ebAIxvJjPl9RFRVBgPA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue679620">
+lZOzwXxclBJzzpLCKcC1FC0sK3rx605Es8oLLQ5ybp0YkLvNB5dKS6eAeOYCZ1I42QmQ9cJlvvzy
+b8Cz/fyOp998koNvkO/EjK/TxcQFCcznXfaajjwEcA56/iyU7iyLQaOpjnAjcCmpvqt5Yu3Jx3Ai
+Xb+OpSTM/lrmR384Mo0dH1wqSMgJfqUvGesbwILSutGv8s+fCHkDvQEy/kWa3OTuD8/YiCW2HcP4
+EsFrHuc/+4achbZoYOoOokq2EBzM1Zv5Lagv53dejBZuBry4QawXywLs09yZ80WhdyHXkUuRQoTP
+sEmKbugfTu1rqcU5EE+z2ktzG0CEKaLU1VIrvA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1263639">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJrDCCB5SgAwIBAgIEW2QFiDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIwMDYyOTE0NDkwNVoXDTIyMDYyOTE1MTkw
+NVowgbkxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE9MBEGA1UEBRMKMDAwMDExNTIwMzAoBgNVBAMTIUNBUkxBIFZJVklBTkEg
+Uk9EUklHVUVaIEpBUkFNSUxMTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ+ntniY
+p07rr13TJuct2owlYkfem1PBGM4lBU+r1bOt8MvAO7tnoFFQR9N7Np/GgqFUJDlTXhINVjEo35bI
+aI9UmWDYwucyf52cLjsqR+CrHHc0xREh55rUwtF0DqXzS/s/Pp3DxiOo3AYuPQAG5oSUetclLUVS
+95R19iXUUvvPzseglzAVFuE1Zf5KPQW0xuUolAqNDizIBwqa3erIG0VGhk6z/oosXVjY46Cn97NE
+nkzGL8isuIjrTcLCSEFaqjFCszzSlJilpXK47d3Rneyy3RhFgW6RTkCUTRfq5F8EAwBnF2iObyO3
+cYVumhZ3NVjmJffFq/aCPB/ptcV9Dk0CAwEAAaOCBNAwggTMMAsGA1UdDwQEAwIHgDBmBgNVHSAE
+XzBdMFsGCysGAQQBgqg7AgEBMEwwSgYIKwYBBQUHAgEWPmh0dHA6Ly93d3cuZWNpLmJjZS5lYy9w
+b2xpdGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLW5hdHVyYWwucGRmMIGRBggrBgEFBQcBAQSBhDCB
+gTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcDAaBgorBgEEAYKoOwMBBAwTCjE3MTI3NTk4MzQwHQYKKwYBBAGCqDsD
+AgQPEw1DQVJMQSBWSVZJQU5BMBkGCisGAQQBgqg7AwMECxMJUk9EUklHVUVaMBkGCisGAQQBgqg7
+AwQECxMJSkFSQU1JTExPMC0GCisGAQQBgqg7AwcEHxMdR0FMVEUgMjg5IFkgUk9EUklHTyBERSBD
+SEFWRVowGQYKKwYBBAGCqDsDCAQLEwkwMjI2MTA4NDIwFQYKKwYBBAGCqDsDCQQHEwVRdWl0bzAX
+BgorBgEEAYKoOwMMBAkTB0VDVUFET1IwHQYKKwYBBAGCqDsDCwQPEw0xNzEyNzU5ODM0MDAxMCAG
+CisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAfBgNVHREEGDAWgRRzaGFueXJvZEBob3Rt
+YWlsLmNvbTCCAd8GA1UdHwSCAdYwggHSMIIBzqCCAcqgggHGhoHVbGRhcDovL2JjZXFsZGFwc3Vi
+cDEuYmNlLmVjL2NuPUNSTDk5Nixjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFE
+T1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1B
+Q0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlm
+aWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9i
+Y2VfZWNfY3JsZmlsZWNvbWIuY3JspIG1MIGyMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08g
+Q0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENF
+TlRSQUwgREVMIEVDVUFET1IxDzANBgNVBAMTBkNSTDk5NjArBgNVHRAEJDAigA8yMDIwMDYyOTE0
+NDkwNVqBDzIwMjIwNjI5MTUxOTA1WjAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAd
+BgNVHQ4EFgQU0DGi8A4Ghoq104mrGspq5OkRiGYwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAK
+GwRWOC4xAwIEsDANBgkqhkiG9w0BAQsFAAOCAgEAKQzG0/OVOhFFWzwqSW37p+00/Ldv/X5HQokC
+4VUU7Q0ldKYjN84p32wZ7wVpDYabMx4UdTJK9l+QRp3wlAGwC2AwS9XRanXc/+dtqEJESiBH0P33
+p5h1PnZeF2ZTMbqdXHosq2aB+HciTKvEytFjnot8a9toOufz3Hr8Xq/4sERxDTsaNHUl+d94G77p
+2I+1OPmmN6OV1gCA3XdDmJeJVTfRP6yaJfsrOFl9sCTSi0fsrjx0PmayKzI276EiYaiKR5IyDcyw
+f0q1fkWjdjQu5Rlt1EPeIf9NOgcFol5qDhOs1bBp4aVSGmnntHrIt337ci6jzlINqMcO90HtE1oy
+BzrlBvPMGDmQhnhnRNzzSFVhyk4LFgoyU9nQkwAN2gr0t2OhlrUU5FY8cYQyXkGCOKmyex7p7AyG
+iAhP+AHSig4NCQcoIEBR5wzfRCkn6QzpWG6m0Qhc2uKe8DKdzrXV6PkjJRYn0eEWprXJL88+ZGM7
+coUIFooolxnVnm9RzpuCmSIAn1TfLesaa3SxPEtQeQA8ig4q4HdUCYKxswzS0wdOAl7iWF06mcYR
+vl7Wyo3GSeTNvTOTfU0S/XHC1xld8U3BHcR7+euZYPyrejBhYRxCA5S/efYVQ4PXfy1yXLzJSPBj
+irrw49ud21YOTSG3ODHRS3v+q/Sgr6bVClCXtBs=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+n6e2eJinTuuvXdMm5y3ajCViR96bU8EYziUFT6vVs63wy8A7u2egUVBH03s2n8aCoVQkOVNeEg1W
+MSjflshoj1SZYNjC5zJ/nZwuOypH4KscdzTFESHnmtTC0XQOpfNL+z8+ncPGI6jcBi49AAbmhJR6
+1yUtRVL3lHX2JdRS+8/Ox6CXMBUW4TVl/ko9BbTG5SiUCo0OLMgHCprd6sgbRUaGTrP+iixdWNjj
+oKf3s0SeTMYvyKy4iOtNwsJIQVqqMUKzPNKUmKWlcrjt3dGd7LLdGEWBbpFOQJRNF+rkXwQDAGcX
+aI5vI7dxhW6aFnc1WOYl98Wr9oI8H+m1xX0OTQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature794085-Object237076"><etsi:QualifyingProperties Target="#Signature794085"><etsi:SignedProperties Id="Signature794085-SignedProperties784800"><etsi:SignedSignatureProperties><etsi:SigningTime>2020-07-21T14:07:20-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ABS0hx2FNpVwLfRv/bqogsCuWoo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533281672</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-651761"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+  <mensajes/>
+</autorizacion>

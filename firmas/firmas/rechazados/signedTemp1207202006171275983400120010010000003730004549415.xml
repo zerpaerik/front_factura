@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><guiaRemision id="comprobante" version="1.0.0">
+	<infoTributaria>		
+		<ambiente>2</ambiente>		
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>RODRIGUEZ JARAMILLO CARLA VIVIANA</razonSocial>
+				<nombreComercial>TALLER SANTARITA</nombreComercial>
+				<ruc>1712759834001</ruc>
+		<claveAcceso>1207202006171275983400120010010000003730004549415</claveAcceso>
+		<codDoc>06</codDoc>
+		<estab>001</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000000373</secuencial>
+		<dirMatriz>PICHICHA/QUTO/LA MAGDALENA/AV. 5 DE JUNIO S9-65 Y RODRIGO DE CHAVEZ</dirMatriz>
+	</infoTributaria>	
+	
+	<infoGuiaRemision>
+		<dirEstablecimiento>CALLE AV. 5 DE JUNIO NO. S9-65, PICHINCHA QUITO</dirEstablecimiento>
+		<dirPartida>QUITO</dirPartida>
+		<razonSocialTransportista>CESAR EUGENIO SIMBA??A GUACHAMIN</razonSocialTransportista>
+		<tipoIdentificacionTransportista>05</tipoIdentificacionTransportista>
+		<rucTransportista>1705637674</rucTransportista>
+		<rise>Contribuyente Regimen Simplificado RISE</rise>
+					<obligadoContabilidad>NO</obligadoContabilidad>
+				
+				
+		<fechaIniTransporte>13/07/2020</fechaIniTransporte>
+		<fechaFinTransporte>13/07/2020</fechaFinTransporte>
+		<placa>PBT1527</placa>
+	</infoGuiaRemision>
+
+	<destinatarios>
+		<destinatario>
+			<identificacionDestinatario>760659800</identificacionDestinatario>
+			<razonSocialDestinatario>ARTE PRIETO Y VALDES LIMITADA</razonSocialDestinatario>
+			<dirDestinatario>LOS TRAPENSES 2765</dirDestinatario>
+			<motivoTraslado>EXPORTACION</motivoTraslado>
+							<docAduaneroUnico>0</docAduaneroUnico>
+						<codEstabDestino>001</codEstabDestino>
+			<ruta>AEREA</ruta>
+			<codDocSustento>01</codDocSustento>
+			<numDocSustento>001-001-000000112</numDocSustento>
+			<numAutDocSustento>0607202001171275983400120010010000001120001989514</numAutDocSustento>
+			<fechaEmisionDocSustento>06/07/2020</fechaEmisionDocSustento>			
+			<detalles>
+									<detalle>
+						<codigoInterno>12318</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>CORAZON DE JESUS 62CM</descripcion>
+						<cantidad>3.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>09929</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>CRISTO  150CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>07918</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>ESPIRITU SANTO CON RAYOS (MEDALLON)  45CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>12998</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>NI??O BELEN No. 1 26CM  ME OJOS DE CRISTAL</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>05334</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>NI??O No. 5 ??  21CM</descripcion>
+						<cantidad>3.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>00650</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>NI??O VESTIDO No. 3    21CM</descripcion>
+						<cantidad>10.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>00667</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>NI??O VESTIDO No. 4   24CM</descripcion>
+						<cantidad>3.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>00056</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAGRADA FAMILIA  DE PIE PESEBRE 50CM</descripcion>
+						<cantidad>6.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>15951</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAN ANTONIO CON NI??O 28CM</descripcion>
+						<cantidad>5.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>04290</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAN JOSE OBRERO  32CM</descripcion>
+						<cantidad>9.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>18143</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>SAN PEDRO 107CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>13575</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA BONDAD 30CM</descripcion>
+						<cantidad>6.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>11762</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA ESPERANZA 27CM</descripcion>
+						<cantidad>30.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>13612</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA ESPERANZA 42CM</descripcion>
+						<cantidad>9.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>11311</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LA ESPERANZA 85CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03422</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE LOURDES 42CM</descripcion>
+						<cantidad>6.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03149</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DEL CARMEN 42CM</descripcion>
+						<cantidad>6.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03156</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DEL CARMEN 68CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>09295</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DEL HOGAR  21CM</descripcion>
+						<cantidad>20.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>09301</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DEL HOGAR  40CM</descripcion>
+						<cantidad>4.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>04030</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN DE MEJUGORI 63CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03545</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN MEDALLA MILAGROSA 125CM</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03552</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN MEDALLA MILAGROSA 140CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03491</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN MEDALLA MILAGROSA 42CM</descripcion>
+						<cantidad>20.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>15609</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN MEDALLA MILAGROSA ESTILISADA 60CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>03521</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>VIRGEN MEDALLA MILAGROSA  86CM</descripcion>
+						<cantidad>2.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>MAJ001</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>ESPIRITU SANTO 24CM / CON BASE</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>MAJ002</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>ESPIRITU SANTO 18CM  SOLO PALOMA / CON BASE</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+									<detalle>
+						<codigoInterno>S0001</codigoInterno>
+						<codigoAdicional>7019.19.0000</codigoAdicional>
+						<descripcion>EMBALAJE</descripcion>
+						<cantidad>1.000000</cantidad>										
+					</detalle>
+							</detalles>
+		</destinatario>
+	</destinatarios>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature466926">
+<ds:SignedInfo Id="Signature-SignedInfo529871">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID14619" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature466926-SignedProperties716833">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>gxF66U18n7BtU6QqxXLcvXQ13xo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1493631">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>C1yR0CY1Z4IquAchcYK0DOuH3cU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-39746" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0V4srYAbXwUyB/N+rqKskbdNFK4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue945850">
+iU1diloTqNdp5kVwj+4bPRbjxeKQy8jqdRDIntn8Rd1Pj5eAnml4sxdmiDODZC0+dEZeJckV3vpK
+xnOU521CRQncJYBvrT0xzCj/T7af08n7CKF9UTWwjCIb/n2jrqdaYervLw0sqjJsQNnggsFGbjk6
+KrDH1KyxUMblY14ZT8t0ddzFpwVstUcVYqmXStc0RWfjCx2tzeiKtNB1toXLw6UKesJagag+e088
+LpepfJcPZM6/m3mTIk1W8TOu2YnenxLm7bXBZk9sNeD0zczIEA9quNr6Ki8umMYF9Fi5tiSGs7/C
+Na9rZQp+DQP0ZtuUPWnRbqJ5nVaSGNavSZpY6A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1493631">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJrDCCB5SgAwIBAgIEW2QFiDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIwMDYyOTE0NDkwNVoXDTIyMDYyOTE1MTkw
+NVowgbkxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE9MBEGA1UEBRMKMDAwMDExNTIwMzAoBgNVBAMTIUNBUkxBIFZJVklBTkEg
+Uk9EUklHVUVaIEpBUkFNSUxMTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ+ntniY
+p07rr13TJuct2owlYkfem1PBGM4lBU+r1bOt8MvAO7tnoFFQR9N7Np/GgqFUJDlTXhINVjEo35bI
+aI9UmWDYwucyf52cLjsqR+CrHHc0xREh55rUwtF0DqXzS/s/Pp3DxiOo3AYuPQAG5oSUetclLUVS
+95R19iXUUvvPzseglzAVFuE1Zf5KPQW0xuUolAqNDizIBwqa3erIG0VGhk6z/oosXVjY46Cn97NE
+nkzGL8isuIjrTcLCSEFaqjFCszzSlJilpXK47d3Rneyy3RhFgW6RTkCUTRfq5F8EAwBnF2iObyO3
+cYVumhZ3NVjmJffFq/aCPB/ptcV9Dk0CAwEAAaOCBNAwggTMMAsGA1UdDwQEAwIHgDBmBgNVHSAE
+XzBdMFsGCysGAQQBgqg7AgEBMEwwSgYIKwYBBQUHAgEWPmh0dHA6Ly93d3cuZWNpLmJjZS5lYy9w
+b2xpdGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLW5hdHVyYWwucGRmMIGRBggrBgEFBQcBAQSBhDCB
+gTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcDAaBgorBgEEAYKoOwMBBAwTCjE3MTI3NTk4MzQwHQYKKwYBBAGCqDsD
+AgQPEw1DQVJMQSBWSVZJQU5BMBkGCisGAQQBgqg7AwMECxMJUk9EUklHVUVaMBkGCisGAQQBgqg7
+AwQECxMJSkFSQU1JTExPMC0GCisGAQQBgqg7AwcEHxMdR0FMVEUgMjg5IFkgUk9EUklHTyBERSBD
+SEFWRVowGQYKKwYBBAGCqDsDCAQLEwkwMjI2MTA4NDIwFQYKKwYBBAGCqDsDCQQHEwVRdWl0bzAX
+BgorBgEEAYKoOwMMBAkTB0VDVUFET1IwHQYKKwYBBAGCqDsDCwQPEw0xNzEyNzU5ODM0MDAxMCAG
+CisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAfBgNVHREEGDAWgRRzaGFueXJvZEBob3Rt
+YWlsLmNvbTCCAd8GA1UdHwSCAdYwggHSMIIBzqCCAcqgggHGhoHVbGRhcDovL2JjZXFsZGFwc3Vi
+cDEuYmNlLmVjL2NuPUNSTDk5Nixjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFE
+T1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1B
+Q0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlm
+aWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9i
+Y2VfZWNfY3JsZmlsZWNvbWIuY3JspIG1MIGyMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08g
+Q0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENF
+TlRSQUwgREVMIEVDVUFET1IxDzANBgNVBAMTBkNSTDk5NjArBgNVHRAEJDAigA8yMDIwMDYyOTE0
+NDkwNVqBDzIwMjIwNjI5MTUxOTA1WjAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAd
+BgNVHQ4EFgQU0DGi8A4Ghoq104mrGspq5OkRiGYwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAK
+GwRWOC4xAwIEsDANBgkqhkiG9w0BAQsFAAOCAgEAKQzG0/OVOhFFWzwqSW37p+00/Ldv/X5HQokC
+4VUU7Q0ldKYjN84p32wZ7wVpDYabMx4UdTJK9l+QRp3wlAGwC2AwS9XRanXc/+dtqEJESiBH0P33
+p5h1PnZeF2ZTMbqdXHosq2aB+HciTKvEytFjnot8a9toOufz3Hr8Xq/4sERxDTsaNHUl+d94G77p
+2I+1OPmmN6OV1gCA3XdDmJeJVTfRP6yaJfsrOFl9sCTSi0fsrjx0PmayKzI276EiYaiKR5IyDcyw
+f0q1fkWjdjQu5Rlt1EPeIf9NOgcFol5qDhOs1bBp4aVSGmnntHrIt337ci6jzlINqMcO90HtE1oy
+BzrlBvPMGDmQhnhnRNzzSFVhyk4LFgoyU9nQkwAN2gr0t2OhlrUU5FY8cYQyXkGCOKmyex7p7AyG
+iAhP+AHSig4NCQcoIEBR5wzfRCkn6QzpWG6m0Qhc2uKe8DKdzrXV6PkjJRYn0eEWprXJL88+ZGM7
+coUIFooolxnVnm9RzpuCmSIAn1TfLesaa3SxPEtQeQA8ig4q4HdUCYKxswzS0wdOAl7iWF06mcYR
+vl7Wyo3GSeTNvTOTfU0S/XHC1xld8U3BHcR7+euZYPyrejBhYRxCA5S/efYVQ4PXfy1yXLzJSPBj
+irrw49ud21YOTSG3ODHRS3v+q/Sgr6bVClCXtBs=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+n6e2eJinTuuvXdMm5y3ajCViR96bU8EYziUFT6vVs63wy8A7u2egUVBH03s2n8aCoVQkOVNeEg1W
+MSjflshoj1SZYNjC5zJ/nZwuOypH4KscdzTFESHnmtTC0XQOpfNL+z8+ncPGI6jcBi49AAbmhJR6
+1yUtRVL3lHX2JdRS+8/Ox6CXMBUW4TVl/ko9BbTG5SiUCo0OLMgHCprd6sgbRUaGTrP+iixdWNjj
+oKf3s0SeTMYvyKy4iOtNwsJIQVqqMUKzPNKUmKWlcrjt3dGd7LLdGEWBbpFOQJRNF+rkXwQDAGcX
+aI5vI7dxhW6aFnc1WOYl98Wr9oI8H+m1xX0OTQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature466926-Object140222"><etsi:QualifyingProperties Target="#Signature466926"><etsi:SignedProperties Id="Signature466926-SignedProperties716833"><etsi:SignedSignatureProperties><etsi:SigningTime>2020-07-12T10:26:28-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ABS0hx2FNpVwLfRv/bqogsCuWoo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533281672</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-39746"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature><ns2:respuestaSolicitud xmlns:ns2="http://ec.gob.sri.ws.recepcion">
+    <estado>DEVUELTA</estado>
+    <comprobantes>
+        <comprobante>
+            <claveAcceso>1207202006171275983400120010010000003730004549415</claveAcceso>
+            <mensajes>
+                <mensaje>
+                    <identificador>58</identificador>
+                    <mensaje>ERROR EN LA ESTRUCTURA DE LA CLAVE DE ACCESO</mensaje>
+                    <informacionAdicional>La fecha de emisi??n Mon Jul 13 00:00:00 GMT-05:00 2020 no consta como parte de la clave de acceso 1207202006171275983400120010010000003730004549415</informacionAdicional>
+                    <tipo>ERROR</tipo>
+                </mensaje>
+            </mensajes>
+        </comprobante>
+    </comprobantes>
+</ns2:respuestaSolicitud></guiaRemision>

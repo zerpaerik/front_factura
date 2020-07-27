@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8"?><autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>0602202001171275983400120010010000001090005724916</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">06/02/2020 09:35:35.000</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>		
+		<ambiente>2</ambiente>		
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>RODRIGUEZ JARAMILLO CARLA VIVIANA</razonSocial>
+		<nombreComercial>TALLER SANTARITA</nombreComercial>
+		<ruc>1712759834001</ruc>
+		<claveAcceso>0602202001171275983400120010010000001090005724916</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000000109</secuencial>
+		<dirMatriz>PICHICHA/QUTO/LA MAGDALENA/AV. 5 DE JUNIO S9-65 Y RODRIGO DE CHAVEZ</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>06/02/2020</fechaEmision>
+		<dirEstablecimiento>CALLE AV. 5 DE JUNIO NO. S9-65, PICHINCHA QUITO</dirEstablecimiento>
+				<obligadoContabilidad>NO</obligadoContabilidad>
+	
+	
+		<tipoIdentificacionComprador>06</tipoIdentificacionComprador>	
+		<razonSocialComprador>AVE MARIA, S.A</razonSocialComprador>
+		<identificacionComprador>17578891697692DV77</identificacionComprador>
+		<direccionComprador>CALLE 71, SAN FRANCISCO PANAMÁ, REPÚBLICA DE PANAMÁ</direccionComprador>		
+		<totalSinImpuestos>6917.84</totalSinImpuestos>
+
+		
+
+		<totalDescuento>0</totalDescuento>		
+		<totalConImpuestos>
+						
+			<totalImpuesto>				
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>				
+				<baseImponible>6917.84</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+						
+		</totalConImpuestos>		
+		<propina>0</propina>
+
+		
+		<importeTotal>6917.84</importeTotal>
+		<moneda>DOLAR</moneda>
+				<pagos>
+						<pago>
+				<formaPago>20</formaPago>
+				<total>6917.84</total>
+											</pago>
+					</pagos>
+			</infoFactura>
+	<detalles>
+				<detalle>
+			<codigoPrincipal>13551</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN CORAZON DE MARIA NO. 5  APLIQUE  31CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>30.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>60</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>60</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03484</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN MEDALLA MILAGROSA No. 2  25CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>18.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>36</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>36</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03477</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN MEDALLA MILAGROSA 31CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>25.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>25</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>25</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03491</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN MEDALLA MILAGROSA 42CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>35.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>35</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>35</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>13568</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN MEDALLA MILAGROSA CON RAYOS 41CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>38.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>38</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>38</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03507</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN MEDALLA MILAGROSA  51CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>45.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>45</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>45</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>07536</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN MEDALLA MILAGROSA MANOS SEPARADAS 51CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>45.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>45</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>45</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>15395</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN MEDALLA MILAGROSA 80 CM CLASICA</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>140.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>140</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>140</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>09905</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN CORAZON DE MARIA 60CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>70.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>70</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>70</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03071</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN AUXILIADORA  con Cetro 64CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>100.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>100</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>100</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>13940</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN AUXILIADORA  NO. 2  31CM CORONA DE RESINA</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>30.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>30</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>30</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03064</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN AUXILIADORA  CORONA Y CETRO DE RESINA 45CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>45.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>45</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>45</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>07543</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LOURDES 78CM</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>135.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>405</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>405</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03767</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN ROSA MISTICA  20CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>18.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>36</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>36</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>16408</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>DIVINO NIÑO NO. 1 15CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>15.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>30</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>30</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>01060</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>DIVINO NIÑO NO. 3   23CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>17.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>34</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>34</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>05471</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>DIVINO NIÑO CON OJOS DE CRISTAL 30CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>40.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>40</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>40</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>05464</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>DIVINO NIÑO OJOS PINTADOS 30CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>33.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>33</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>33</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>05020</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>CORAZON DE JESUS 30CM</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>24.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>72</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>72</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>05594</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO BELEN No. 2  36CM OJOS DE CRISTAL</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>55.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>165</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>165</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>05365</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO No.9 40CM</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>68.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>204</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>204</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>05389</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO VESTIDO No. 00     7CM</descripcion>
+			<cantidad>6.000000</cantidad>
+			<precioUnitario>5.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>30</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>30</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>13728</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>MANO DE DIOS NIÑA No. 0   8CM</descripcion>
+			<cantidad>12.000000</cantidad>
+			<precioUnitario>8.570000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>102.84</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>102.84</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>01015</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO ITALIANO   47.5CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>70.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>140</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>140</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>01664</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO VESTINO NO. 0      8CM</descripcion>
+			<cantidad>4.000000</cantidad>
+			<precioUnitario>6.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>24</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>24</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>00117</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO VESTIDO No. 1     10CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>8.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>16</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>16</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>02883</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO VESTIDO NO. 2 11CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>8.500000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>17</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>17</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>12707</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO VESTIDO NO. 2  ½    15CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>11.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>22</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>22</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>13988</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO COJIN NO. 1    6CM </descripcion>
+			<cantidad>6.000000</cantidad>
+			<precioUnitario>6.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>36</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>36</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>13995</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO COJIN NO. 2   7CM</descripcion>
+			<cantidad>6.000000</cantidad>
+			<precioUnitario>8.500000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>51</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>51</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>14008</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO COJIN NO. 3   9CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>12.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>24</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>24</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>12158</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO CON PAJONAL NO. 1 7.5CM</descripcion>
+			<cantidad>4.000000</cantidad>
+			<precioUnitario>9.500000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>38</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>38</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>12165</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO CON PAJONAL NO. 2   10CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>13.500000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>27</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>27</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>12998</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO BELEN No. 1 26CM  ME OJOS DE CRISTAL</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>40.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>120</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>120</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>15753</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO NO. 1    8CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>6.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>12</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>12</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>16835</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO DE PRAGA NO. 1   28CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>30.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>30</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>30</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>04412</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>SAN ANTONIO No. 2 21CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>18.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>36</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>36</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>00582</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>SAN JOSE No. 1 MODELO NUEVO 25CM CON NIÑO</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>20.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>40</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>40</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03798</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN ROSA MISTICA 90CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>160.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>160</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>160</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03057</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN AUXILIADORA 30CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>26.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>26</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>26</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>15647</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE GUADALUPE  20CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>22.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>44</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>44</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>15562</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE GUADALUPE 32CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>30.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>60</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>60</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03361</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE GUADALUPE 40CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>45.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>45</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>45</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>15944</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE GUADALUPE 45CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>50.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>50</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>50</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>10468</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE GUADALUPE 70CM APLIQUE</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>90.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>90</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>90</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>07789</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE GUADALUPE 85CM CON SOL 97CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>280.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>280</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>280</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>07574</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE MURILLO No. 1   22CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>20.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>40</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>40</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03897</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE MURILLO FIBRA  39CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>40.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>40</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>40</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03880</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE MURILLO No. 2 MOD.ANTIGUO  30CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>28.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>28</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>28</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03583</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LA MERCED 36CM C/NIÑO</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>32.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>64</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>64</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03149</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DEL CARMEN 42CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>40.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>40</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>40</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03446</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LOURDES 60CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>70.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>70</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>70</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03439</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LOURDES 55CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>50.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>50</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>50</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>12196</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LOURDES 100CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>240.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>240</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>240</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03453</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LOURDES 110CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>300.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>300</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>300</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>07635</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DESATANUDOS  #1 23CM</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>18.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>54</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>54</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>07642</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DESATANUDOS # 2 30CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>27.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>54</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>54</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>11762</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LA ESPERANZA 27CM</descripcion>
+			<cantidad>12.000000</cantidad>
+			<precioUnitario>18.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>216</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>216</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>07734</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE MEJUGORI 21CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>20.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>40</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>40</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03620</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DEL PERPETUO SOCORRO 29CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>32.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>32</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>32</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03781</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN ROSA MISTICA  47CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>40.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>80</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>80</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03125</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DEL CARMEN No. 1  25CM</descripcion>
+			<cantidad>4.000000</cantidad>
+			<precioUnitario>20.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>80</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>80</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03132</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DEL CARMEN 36CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>35.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>70</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>70</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03163</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DEL CARMEN 79CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>150.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>150</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>150</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03286</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE FATIMA 42CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>91.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>91</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>91</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03293</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE FATIMA   62CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>130.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>130</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>130</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03316</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE FATIMA 84CM </descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>172.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>172</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>172</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>01091</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN CARIDAD DEL COBRE   40CM</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>65.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>195</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>195</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>05211</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>CORAZON DE JESUS APLIQUE No. 4  25CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>27.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>27</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>27</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>05228</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>CORAZON DE JESUS APLIQUE No. 5   31CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>30.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>30</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>30</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>04481</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>ARCANGEL SAN MIGUEL  27CM</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>27.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>54</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>54</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>12110</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE MURILLO DECORADA 60CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>105.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>105</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>105</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>S0001</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>EMBALAJE</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>400.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>400</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>400</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>15326</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DESATANUDOS  # 3  40CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>55.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>55</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>55</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>18020</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>SAN PEREGRINO 50CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>50.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>50</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>50</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>15395</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN MEDALLA MILAGROSA 80 CM CLASICA</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>182.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>182</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>182</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>13940</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN AUXILIADORA  NO. 2  31CM CORONA DE RESINA</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>30.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>30</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>30</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>00933</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN MEDALLA MILAGROSA 110CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>540.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>540</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>540</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+			</detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature342298">
+<ds:SignedInfo Id="Signature-SignedInfo589569">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID126849" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature342298-SignedProperties945940">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Y3qYXwla0qdarsRymN8moYRpH64=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1713016">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>fw+1MKPcR2wNWP95NfworxpsegI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-411926" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vRSSGMSXhRiJde3vJKuCgTApln0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue945085">
+KmNFn45R1OuBW5zLJEfEj4NPsMmSZaGZZWuQwVNy5w2HC907Ds7Uh52ajTcGoupzpZtxsmZMPNeb
+v5tHDhLCvvVXBY8acTwcTWfNFq+KyoFXYQTu64a4rr6fGbbd9mS0tV1+zLoVrRXgBeoa3M7IlVn7
+Rtq255jJ28lp4NzBbQ2IoOqwwmQ8PzeUf57HCf7i4bJ6F5Cul5TZT9pg6hP4RvI7cQbgWnhdYgr0
+B8kfMqRH+oTCFUdUzwKxn48RwpoTXsoIV7HrIw+ulILMDaltrEgkduh7B0TXpzmCiur7II2RZ7JF
+vawUAHj3asP7C1hnYjsowbtYZd5Sb0yY20J6mg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1713016">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJrDCCB5SgAwIBAgIEWlvS3DANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE4MDUxNTE3NDAyM1oXDTIwMDUxNTE4MTAy
+M1owgbkxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE9MBEGA1UEBRMKMDAwMDExNTIwMzAoBgNVBAMTIUNBUkxBIFZJVklBTkEg
+Uk9EUklHVUVaIEpBUkFNSUxMTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALMqWDOy
+5wB87MCKuUs984o9zCtGn+SEjBaChcCad17JENIiegqU74sfIZV5Q5N8Vn4C4FMU20sG7b3e2jWq
+zRC5RkjqDjkRe/KEYlk8hzka8xyxyhTF0Kn2PvobEKlMHOjEzMdYVcudQklDLXAgF5Fe1l4fZTg2
+zjuekfE5uDckj5Nj5Tkm1UnZgWITQoVJ8y5WvnFcLgDPwzOtPKcdOF4UXELR9qJ7D36E8HHEJw8J
+45KkNK7ru1dn7Jg/DJNm5qZO7H7C+QrQcb0pBJqq3F3Zuq20SNdeB5btmhLIkW1sKaH1AwM3s8RK
+2pgeV/pPO89cBNnVvYmF3ud5qfiRXr0CAwEAAaOCBNAwggTMMAsGA1UdDwQEAwIHgDBmBgNVHSAE
+XzBdMFsGCysGAQQBgqg7AgEBMEwwSgYIKwYBBQUHAgEWPmh0dHA6Ly93d3cuZWNpLmJjZS5lYy9w
+b2xpdGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLW5hdHVyYWwucGRmMIGRBggrBgEFBQcBAQSBhDCB
+gTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcDAaBgorBgEEAYKoOwMBBAwTCjE3MTI3NTk4MzQwHQYKKwYBBAGCqDsD
+AgQPEw1DQVJMQSBWSVZJQU5BMBkGCisGAQQBgqg7AwMECxMJUk9EUklHVUVaMBkGCisGAQQBgqg7
+AwQECxMJSkFSQU1JTExPMC0GCisGAQQBgqg7AwcEHxMdR0FMVEUgMjg5IFkgUk9EUklHTyBERSBD
+SEFWRVowGQYKKwYBBAGCqDsDCAQLEwkwMjI2MTA4NDIwFQYKKwYBBAGCqDsDCQQHEwVRdWl0bzAX
+BgorBgEEAYKoOwMMBAkTB0VDVUFET1IwHQYKKwYBBAGCqDsDCwQPEw0xNzEyNzU5ODM0MDAxMCAG
+CisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAfBgNVHREEGDAWgRRzaGFueXJvZEBob3Rt
+YWlsLmNvbTCCAd8GA1UdHwSCAdYwggHSMIIBzqCCAcqgggHGhoHVbGRhcDovL2JjZXFsZGFwc3Vi
+cDEuYmNlLmVjL2NuPUNSTDU2MCxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFE
+T1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1B
+Q0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlm
+aWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9i
+Y2VfZWNfY3JsZmlsZWNvbWIuY3JspIG1MIGyMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08g
+Q0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENF
+TlRSQUwgREVMIEVDVUFET1IxDzANBgNVBAMTBkNSTDU2MDArBgNVHRAEJDAigA8yMDE4MDUxNTE3
+NDAyM1qBDzIwMjAwNTE1MTgxMDIzWjAfBgNVHSMEGDAWgBQY+fD75jIcmWY5KsqLsml9SSe/zjAd
+BgNVHQ4EFgQUyWPmblNW+bdjrF//MKrJ7mWIVJkwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAK
+GwRWOC4xAwIEsDANBgkqhkiG9w0BAQsFAAOCAgEAgJjbmEK3MqO51Bx7qK8XUfApIGM+0M2N3/C0
+3MCk7dF/gKaBWF6szKheXsa+9RlLADBKcou+/JOX7pDjn+zTTFM718iW44Orh8snmduw5qrJg6Ll
+u3pCfVL1twZX8GP3LEd2uCnPtdmtoXGHlLNXdbocDjQvll0HCe1Y02pNS2QGKAEGwBr43QBWFIJ+
+Dp4TE2ymQ1LvrdLSdZHPaJTSB98JJFPp3U8WzBIKYJZXAbNgamS+1gTsHyFeHWYezZUFkz1FzscS
+2i28QybkVEblD2guN4bCgceV236xJkkFZHduDyljtqunKWP34ms0BGX8nKtyikRlThWtGIq864Dm
+eSQo/wwUOFxEfS/UFs9gOefE0JiKwfUlrTXiV1CQwVRQksikf4euvCuJfd+vKE2mBk3KkMOTGJf0
+AXdPnef3AbH4+8lB6dkjWSNruHJk1nasCV6ocmiLDL/pdtQDcfC3qLx6ElEwuxHcYxRUkw0pkxOU
+pbry505xSbid0qloqPcz8pCZqfAzp9D8lapBv0O2AdW4jLr/3RA74HYIvJcgpRGWGSPx6A8J9bma
+JAkGtQkMh5dG5PRLS1bsTv/wKy64iltKyd66QUKFxIdM1YsrS5Ch5pcmK1DgvHswxwtoD+ua4ifl
+0kIY7FhVUJyjehoMx+H6R2B4weAcn0hhL/SzyhY=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+sypYM7LnAHzswIq5Sz3zij3MK0af5ISMFoKFwJp3XskQ0iJ6CpTvix8hlXlDk3xWfgLgUxTbSwbt
+vd7aNarNELlGSOoOORF78oRiWTyHORrzHLHKFMXQqfY++hsQqUwc6MTMx1hVy51CSUMtcCAXkV7W
+Xh9lODbOO56R8Tm4NySPk2PlOSbVSdmBYhNChUnzLla+cVwuAM/DM608px04XhRcQtH2onsPfoTw
+ccQnDwnjkqQ0ruu7V2fsmD8Mk2bmpk7sfsL5CtBxvSkEmqrcXdm6rbRI114Hlu2aEsiRbWwpofUD
+AzezxEramB5X+k87z1wE2dW9iYXe53mp+JFevQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature342298-Object816034"><etsi:QualifyingProperties Target="#Signature342298"><etsi:SignedProperties Id="Signature342298-SignedProperties945940"><etsi:SignedSignatureProperties><etsi:SigningTime>2020-02-06T09:35:30-06:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>m+EZq1WbB3aGh4jupCLKY7NX4tQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1515967196</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-411926"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+  <mensajes/>
+</autorizacion>

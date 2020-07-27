@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>		
+		<ambiente>2</ambiente>		
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>CONSORCIO EV OFTAMED</razonSocial>
+		<nombreComercial>OFTAMED</nombreComercial>
+		<ruc>1792628326001</ruc>
+		<claveAcceso>2701202001179262832600120010010000000000005834716</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000000000</secuencial>
+		<dirMatriz>CENTRO HIST??RICO Calle: AV. GRAN COLOMBIA Numero: 1573 Interseccion: QUESEROS DEL MEDIO</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>27/01/2020</fechaEmision>
+		<dirEstablecimiento>AV. GRAN COLOMBIA</dirEstablecimiento>
+				<contribuyenteEspecial>001</contribuyenteEspecial>
+				<obligadoContabilidad>SI</obligadoContabilidad>
+	
+	
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>	
+		<razonSocialComprador>Leonardo Armijos</razonSocialComprador>
+		<identificacionComprador>1103187710001</identificacionComprador>
+		<direccionComprador>Av. 6 de Diciembre y Bossano</direccionComprador>		
+		<totalSinImpuestos>1</totalSinImpuestos>
+
+		
+
+		<totalDescuento>0</totalDescuento>		
+		<totalConImpuestos>
+						
+			<totalImpuesto>				
+				<codigo>2</codigo>
+				<codigoPorcentaje>2</codigoPorcentaje>				
+				<baseImponible>1.00</baseImponible>
+				<valor>0.12</valor>
+			</totalImpuesto>
+						
+		</totalConImpuestos>		
+		<propina>0</propina>
+
+		
+		<importeTotal>1.12</importeTotal>
+		<moneda>DOLAR</moneda>
+				<pagos>
+						<pago>
+				<formaPago>01</formaPago>
+				<total>1.12</total>
+											</pago>
+					</pagos>
+			</infoFactura>
+	<detalles>
+				<detalle>
+			<codigoPrincipal>Op0001</codigoPrincipal>
+						<codigoAuxiliar>N0001</codigoAuxiliar>
+						<descripcion>Audio metr??as Cyfoil</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>1.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>1</baseImponible>
+					<valor>0.12</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+			</detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature957645">
+<ds:SignedInfo Id="Signature-SignedInfo339226">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID341084" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature957645-SignedProperties478151">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Yo6m3xY8FyaUMz3H57s1c15/wTY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1165335">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vN3OzlxUTOENeYAafwpEidDiryE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-212437" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jAmZzl5+H/ztTxVhD3+XY7/3Kfs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue699994">
+VgIOT40OSx6wdZyfOEieRBFsw8HFL9st/i6YLwmwMpwLeEutjr7tTvE3QtpmlqtFP53MnGeG46no
+TyueQ0Vf5pV9+q2rCJCb1VV5u1E80b5DT83Kr6GCQmDXIKzuvI6Mb4coR79dmhDYxs6VQMdeZQ09
+Rg4uMYyxmn1cRAv35wNT9IRQ3jIsBqzK5ojt60LKJMX0yWND6YtHASKthi9M/Ldmv2Q1xSc43YgU
+0afGG82oL6CKnIF/QC61RslVJoC1KDXX4pToO/SslkZxo25RVvDOmTe/jThFQ76TFOnsU2q+t6/d
+qv3GpXmwEYwlnRYcg9skzv/Tgu+basOyq1LCFA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1165335">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKAzCCB+ugAwIBAgIEW2INmTANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE5MTIyMDIxMTQ0MVoXDTIxMTIyMDIxNDQ0
+MVowgbkxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE9MBEGA1UEBRMKMDAwMDQyNzU0OTAoBgNVBAMTIUdBQlJJRUwgREFOSUVM
+IFZBTkVHQVMgQUxUQU1JUkFOTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMf5PILB
+i4sObKWEm/1RQ81JDJkq2S5efA4J7SQ5u0yPX0MEeP4KnSnZ4lGcVFaqxc5oNXNbbdXBqItsYsxI
+JoYhYVJ/vIAgO9YqIpfMSxmMPcFbJrArViVOb7+Z3NBpkn6DQYFCwr36wOzT16tPlciZoWOTz8Wy
+tTRxkV0Juc9cmyAMzbBij7m9BcLGe/uFfw96pG57+6Z9vx8cEZ9yZ9Ly8PMh/DCVhyn9DpLhc4Rc
+e40FGR0DldB4tqVc/iAUa5HtITu4eogyU/yd8XJDKdKjC57HdJQAXI9CqkvpzLEerOOCkJyW8KEb
+lEk9fly5d0U7iKsN39kwhd56I6W1IKcCAwEAAaOCBScwggUjMAsGA1UdDwQEAwIHgDBnBgNVHSAE
+YDBeMFwGCysGAQQBgqg7AgIBME0wSwYIKwYBBQUHAgEWP2h0dHA6Ly93d3cuZWNpLmJjZS5lYy9w
+b2xpdGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLWp1cmlkaWNhLnBkZjCBkQYIKwYBBQUHAQEEgYQw
+gYEwPgYIKwYBBQUHMAGGMmh0dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwMD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJjYS9wdWJs
+aWN3ZWIvc3RhdHVzL29jc3AwJAYKKwYBBAGCqDsDCgQWExRDT05TT1JDSU8gRVYgT0ZUQU1FRDAd
+BgorBgEEAYKoOwMLBA8TDTE3OTI2MjgzMjYwMDEwGgYKKwYBBAGCqDsDAQQMEwoyMTAwMzY5ODYz
+MB4GCisGAQQBgqg7AwIEEBMOR0FCUklFTCBEQU5JRUwwFwYKKwYBBAGCqDsDAwQJEwdWQU5FR0FT
+MBoGCisGAQQBgqg7AwQEDBMKQUxUQU1JUkFOTzAgBgorBgEEAYKoOwMFBBITEFBST0NVUkFET1Ig
+Q09NVU4wOgYKKwYBBAGCqDsDBwQsEypBViBHUkFOIENPTE9NQklBIDE1NzMgWSBRVUVTRVJBUyBE
+RUwgTUVESU8wGQYKKwYBBAGCqDsDCAQLEwkwMjIyMjQ1MDEwFQYKKwYBBAGCqDsDCQQHEwVRdWl0
+bzAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNI
+SVZPMCAGA1UdEQQZMBeBFWdkdmFuZWdhc0Bob3RtYWlsLmNvbTCCAd8GA1UdHwSCAdYwggHSMIIB
+zqCCAcqgggHGhoHVbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDg5Mixjbj1BQyUy
+MEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUl
+MjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRS
+QUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRo
+dHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG1MIGy
+MQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UE
+CxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UE
+BxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxDzANBgNVBAMT
+BkNSTDg5MjArBgNVHRAEJDAigA8yMDE5MTIyMDIxMTQ0MVqBDzIwMjExMjIwMjE0NDQxWjAfBgNV
+HSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNVHQ4EFgQU4sSp7+vjU1JXoCMaHVhS3Ojf
+RBcwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIEsDANBgkqhkiG9w0BAQsFAAOC
+AgEAaU9NNIfFKvMXQxzZJBL+odVJPa+KeBFHg3FCUC3xIGT9giyzAzsisBrL3WLzS0u6QR+Hxq9o
+J8m13VQuRnEOALFCIgnhkUlX8iXelFTZ6GvOkgfNAxwTc8TNVIy8NJ3cyZMEX2CvikILQIkhBhlS
+Ax5cqY/eZbPp8dIoZmLDhMSh2Up5dUlLfAl4v0wADNi3q92WEVP2qpTEZkBP7cUIAD/8F+AxZJa4
+8bOJ3GfHoMvNtWBs1ljvhxFUBJTC3CElbf70ictXd/JOTd+CppoSJDPFVTuonjpglkVg0y1U5X2P
+Xngt5b3FkH2uXCy5PDfOL6OFD8BeXSscGONbYv+ukvfcc8axW1Tg33aT1pMpdnHvwOHXKe7s+Ery
+BWV/NHE/fZRuZaatf+P39NwpSvbzLj9fPZ4tPJ6NAFFjoD9gjnmG8yidBem4YsIxqj1585gj5rYL
+58oE6ezuQcDXmjfRu8XNQz8G51t9Ky6HhOIxoogpnPPWb5LsX+MVcsiWCjUiwvUjJcIvybwVPVPk
+tPBYIED35nomBlb0Xoeiu5qI1PtaCMxF9vYNgwGCwnjsYiO/0RcphydosBKAp1IDjyZkNjG+UD9i
+wZDgth8d3AFnqHEBEyx+OIGJ4SLorzzSQpAPef1gq4Qgo1TtF60AMlITB2ZxGHe3QgAhW82aWt4D
+Q8I=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+x/k8gsGLiw5spYSb/VFDzUkMmSrZLl58DgntJDm7TI9fQwR4/gqdKdniUZxUVqrFzmg1c1tt1cGo
+i2xizEgmhiFhUn+8gCA71ioil8xLGYw9wVsmsCtWJU5vv5nc0GmSfoNBgULCvfrA7NPXq0+VyJmh
+Y5PPxbK1NHGRXQm5z1ybIAzNsGKPub0FwsZ7+4V/D3qkbnv7pn2/HxwRn3Jn0vLw8yH8MJWHKf0O
+kuFzhFx7jQUZHQOV0Hi2pVz+IBRrke0hO7h6iDJT/J3xckMp0qMLnsd0lABcj0KqS+nMsR6s44KQ
+nJbwoRuUST1+XLl3RTuIqw3f2TCF3nojpbUgpw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature957645-Object1041347"><etsi:QualifyingProperties Target="#Signature957645"><etsi:SignedProperties Id="Signature957645-SignedProperties478151"><etsi:SignedSignatureProperties><etsi:SigningTime>2020-01-27T18:09:09-06:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>un/dyfy5e8n/ii20LKT/g0L4Lms=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533152665</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-212437"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature><ns2:respuestaSolicitud xmlns:ns2="http://ec.gob.sri.ws.recepcion">
+    <estado>DEVUELTA</estado>
+    <comprobantes>
+        <comprobante>
+            <claveAcceso>N/A</claveAcceso>
+            <mensajes>
+                <mensaje>
+                    <identificador>35</identificador>
+                    <mensaje>ARCHIVO NO CUMPLE ESTRUCTURA XML</mensaje>
+                    <informacionAdicional>No existe un contribuyente registrado con el RUC 1792628326001</informacionAdicional>
+                    <tipo>ERROR</tipo>
+                </mensaje>
+            </mensajes>
+        </comprobante>
+    </comprobantes>
+</ns2:respuestaSolicitud></factura>

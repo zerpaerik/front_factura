@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>1003202001170801544900120010010000003310003089819</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">10/03/2020 16:01:15.000</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>		
+		<ambiente>2</ambiente>		
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>ALMEIDA RIVAS RENATO FABRICIO</razonSocial>
+		<nombreComercial>SANTO GIUSEPPE ESCULTURE</nombreComercial>
+		<ruc>1708015449001</ruc>
+		<claveAcceso>1003202001170801544900120010010000003310003089819</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000000331</secuencial>
+		<dirMatriz>CALLE AV. 5 DE JUNIO NO. S9-204, PICHINCHA QUITO</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>10/03/2020</fechaEmision>
+		<dirEstablecimiento>CALLE AV. 5 DE JUNIO NO. S9-204, PICHINCHA QUITO</dirEstablecimiento>
+				<obligadoContabilidad>NO</obligadoContabilidad>
+	
+			<comercioExterior>EXPORTADOR</comercioExterior>
+		<incoTermFactura>FOB</incoTermFactura>
+		<lugarIncoTerm>Quito</lugarIncoTerm>
+		<paisOrigen>593</paisOrigen>
+		<puertoEmbarque>Quito</puertoEmbarque>
+		<puertoDestino>Panama</puertoDestino>
+		<paisDestino>507</paisDestino>
+		<paisAdquisicion>593</paisAdquisicion>
+	
+		<tipoIdentificacionComprador>06</tipoIdentificacionComprador>	
+		<razonSocialComprador>ROSA ELENA DE VALENCIA</razonSocialComprador>
+		<identificacionComprador>E848750</identificacionComprador>
+		<direccionComprador>APARTADO 0816-03585, ZONA 5  PANAMA, PANAMA REPUBLICA DE PANAMA</direccionComprador>		
+		<totalSinImpuestos>954</totalSinImpuestos>
+
+			<incoTermTotalSinImpuestos>FOB</incoTermTotalSinImpuestos>
+		
+
+		<totalDescuento>0</totalDescuento>		
+		<totalConImpuestos>
+						
+			<totalImpuesto>				
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>				
+				<baseImponible>954.00</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+						
+		</totalConImpuestos>		
+		<propina>0</propina>
+
+					<fleteInternacional>0.0000</fleteInternacional>
+			<seguroInternacional>0.0000</seguroInternacional>
+			<gastosAduaneros>0.0000</gastosAduaneros>
+			<gastosTransporteOtros>0.0000</gastosTransporteOtros>
+		
+		<importeTotal>954.00</importeTotal>
+		<moneda>DOLAR</moneda>
+				<pagos>
+						<pago>
+				<formaPago>01</formaPago>
+				<total>954.00</total>
+											</pago>
+					</pagos>
+			</infoFactura>
+	<detalles>
+				<detalle>
+			<codigoPrincipal>11311</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LA ESPERANZA 85CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>250.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>250</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>250</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>13612</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LA ESPERANZA 42CM</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>50.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>150</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>150</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>09127</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑO No.10 CHURON  56CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>110.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>110</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>110</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>02814</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>NIÑOS PARA SANTA ROSA DE LIMA 29CM</descripcion>
+			<cantidad>3.000000</cantidad>
+			<precioUnitario>40.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>120</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>120</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03774</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN ROSA MISTICA  28CM</descripcion>
+			<cantidad>5.000000</cantidad>
+			<precioUnitario>35.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>175</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>175</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>03446</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>VIRGEN DE LOURDES 60CM</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>104.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>104</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>104</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+				<detalle>
+			<codigoPrincipal>S0001</codigoPrincipal>
+						<codigoAuxiliar>7019.19.0000</codigoAuxiliar>
+						<descripcion>EMBALAJE</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>45.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>45</precioTotalSinImpuesto>			
+			<impuestos>
+								<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>45</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+							</impuestos>
+		</detalle>
+			</detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1044762">
+<ds:SignedInfo Id="Signature-SignedInfo385963">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID135198" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1044762-SignedProperties478352">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>dJtJP3lWyU637oLcmk0+p6iLL0g=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1967058">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>lIzN8H36/LypacHxWJrMr1+FcS0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-270630" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Z22Nl9GNWvXVw0bnZCPEW12GRxk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue837050">
+KKKBLto7jj8HO9bR2Dni81BgpxzYXLUHM6m0gFQEwoOjvjU+0qLASR4n7SNdJGQhq3WBWNgZh6QM
+U2+Tcsl/9ApfKVu5GKxsScranlLNvmuM8o12yYYIT5/rsovNeBEAY0cUBbU2mmwqOr+vnEv2lPCL
+K3rqnbOqEd0ZZnIgIuz3eOSedqQvpyc1t2n2h3G6DSmHZMSfdv2+3ivFWUDwhE4I/rtIsSVP4hCG
+Usw13hP+2ZU5xh+ZjgVU6UcXiw4qf7T/E1VdVQ7pavyHIuwiyS3oHwjj3d0qcWIsBxTq63WyA7hv
+2qlAZxnI3h5Ythsbd4W/2KB2XPOHlbCESKdL7g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1967058">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJqDCCB5CgAwIBAgIEWlvUwDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE4MDUxNjE1MDMyMVoXDTIwMDUxNjE1MzMy
+MVowgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDExNTM3MjAkBgNVBAMTHVJFTkFUTyBGQUJSSUNJ
+TyBBTE1FSURBIFJJVkFTMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvLBIGVwBTjX1
+Vo5QfK9IJPdZUtMtIWGUXkckW0Rqs2BZGw1jaMgoQ3JxcYkm1s3lRZnTzA6vu+btf5gmeVcRJ6CK
+UdVxnLXNJmvCCgqoKxpIHE6ybNm7X4tB9DqrSTR8JPrZ+fcA/uEBoVYDkKKgxA/Ybv7xtx5rNoAx
+BoSvxkDqxpfGSLzpLds9yYGVoRpJm1IfLjozkwTprHdfVE0p8giGgEomM9OsGxSRtizxwgpF5uJP
+NvD5ZW+2YZt08tfsaRutmtkeKtD3zDe34eaOWTXuP5Upj76ogwjGeQZiQH4p0T5bPnFRgTu0ILE0
+51GLQP3Q3WkZbD1aA/selwtrsQIDAQABo4IE0DCCBMwwCwYDVR0PBAQDAgeAMGYGA1UdIARfMF0w
+WwYLKwYBBAGCqDsCAQEwTDBKBggrBgEFBQcCARY+aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtbmF0dXJhbC5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4G
+CCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2Vi
+L3N0YXR1cy9vY3NwMBoGCisGAQQBgqg7AwEEDBMKMTcwODAxNTQ0OTAfBgorBgEEAYKoOwMCBBET
+D1JFTkFUTyBGQUJSSUNJTzAXBgorBgEEAYKoOwMDBAkTB0FMTUVJREEwFQYKKwYBBAGCqDsDBAQH
+EwVSSVZBUzArBgorBgEEAYKoOwMHBB0TG0VQSUNMQUNISU1BIFM5MjA0IFkgSkFNQkVMSTAZBgor
+BgEEAYKoOwMIBAsTCTAyMjY2MDE4NTAVBgorBgEEAYKoOwMJBAcTBVF1aXRvMBcGCisGAQQBgqg7
+AwwECRMHRUNVQURPUjAdBgorBgEEAYKoOwMLBA8TDTE3MDgwMTU0NDkwMDEwIAYKKwYBBAGCqDsD
+MwQSExBTT0ZUV0FSRS1BUkNISVZPMCUGA1UdEQQeMByBGmFsbWVpZGEucmVuYXRvQGhvdG1haWwu
+Y29tMIIB3wYDVR0fBIIB1jCCAdIwggHOoIIByqCCAcaGgdVsZGFwOi8vYmNlcWxkYXBzdWJwMS5i
+Y2UuZWMvY249Q1JMNTYxLGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixs
+PVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9O
+LUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0
+ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9l
+Y19jcmxmaWxlY29tYi5jcmykgbUwgbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5U
+UkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJB
+TCBERUwgRUNVQURPUjEPMA0GA1UEAxMGQ1JMNTYxMCsGA1UdEAQkMCKADzIwMTgwNTE2MTUwMzIx
+WoEPMjAyMDA1MTYxNTMzMjFaMB8GA1UdIwQYMBaAFBj58PvmMhyZZjkqyouyaX1JJ7/OMB0GA1Ud
+DgQWBBQBzOdETEUhbkUl8wALDmDrqwwZYTAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4
+LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQCY9yvMuSmwSNS+GJ9oHrh5uAUPbyT3qMH6hZc81B2N
+OpsqCw4plXh6y6XBnPaT9dmEc/KJhrlq2TH6vTraH8lLVthRJI7XTg5K2lx7VkqqMAp5FmHEP+m/
+eCqzD7addzLZvtXotBZwLDgblCyeP026EFMxa27m6vUVYzHSAIVqayR2dVw5LR5U6VSz4GfcGsqH
+Ae1cY4WSo+8TNeFcATN5PPhKiIrt6Cg3hbpO5JgD4oHnIPshd/TGmNaNNqxEF8KmLnf7968erJjo
+qDSxGjNGfyiCkjnm3NV8zI382CsniCB5DqbY4wbcN+h4Dtk20Pp40aHG300/dtmQ43csv9Rag4gP
+jwztq7f/LYi455VBJByq8Dc02EzSvQabWXxnOy6UZBpPeZXzaZPtwFgEL7TXkMRI5dNIrg2GFnLB
+k3y5zszuY7nbvNWJePkCdAOCNY0OI4A8QqyAmR6T92rphzeoBKEHhTpvQwtF+DmkhIw7dEVVCnZA
+AGE6fgTOJ24B3VXKte6UFyLOj3M6HlBgTXcNf1ifFKUx7QkaHklCMTfbGR3S62vFudeMrfrQHc65
+UVfhYIGGaqNLwmQp9c2MWf81yMXhOsMPLWBc9wOmNIs4BwTbZndur7Ec6TsI3mXvmE24UzSX07nN
+K82+4vwzNiZNSKC4pT23ACsj0Ui+1p7UfA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+vLBIGVwBTjX1Vo5QfK9IJPdZUtMtIWGUXkckW0Rqs2BZGw1jaMgoQ3JxcYkm1s3lRZnTzA6vu+bt
+f5gmeVcRJ6CKUdVxnLXNJmvCCgqoKxpIHE6ybNm7X4tB9DqrSTR8JPrZ+fcA/uEBoVYDkKKgxA/Y
+bv7xtx5rNoAxBoSvxkDqxpfGSLzpLds9yYGVoRpJm1IfLjozkwTprHdfVE0p8giGgEomM9OsGxSR
+tizxwgpF5uJPNvD5ZW+2YZt08tfsaRutmtkeKtD3zDe34eaOWTXuP5Upj76ogwjGeQZiQH4p0T5b
+PnFRgTu0ILE051GLQP3Q3WkZbD1aA/selwtrsQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1044762-Object341750"><etsi:QualifyingProperties Target="#Signature1044762"><etsi:SignedProperties Id="Signature1044762-SignedProperties478352"><etsi:SignedSignatureProperties><etsi:SigningTime>2020-03-10T16:01:11-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>PFzQ5kLSqqRAq5K46kCGBB0Uq0M=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1515967680</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-270630"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+  <mensajes/>
+</autorizacion>
