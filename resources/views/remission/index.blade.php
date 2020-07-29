@@ -19,13 +19,13 @@
         <div class="col-lg-2">
         </div>
     </div>
-    <div id="client" class="wrapper wrapper-content animated fadeInRight" ng-controller="RemissionController as vm">
-        <div class="row">
+    <div id="client" class="wrapper wrapper-content animated fadeInRight" ng-controller="RemissionController as vm" ng-init="vm.readDocumentPlan({{$_COOKIE['company_id']}})">
+        <div class="row" ng-show="vm.PlanCompany.length != 0">
             <div class="col-lg-12">
                 <div class="ibox float-e-margins">
                     <div class="ibox-title">
                         <h5>Lista de Guías</h5>
-                        <div class="ibox-tools">  
+                        <div class="ibox-tools" ng-show="vm.PlanCompany.documentQuantity != vm.PlanCompany.plan.document_count">  
                             <a href="{{url('/remission/create')}}" class="btn btn-xs btn-danger"><span class="fa fa-plus-circle"></span> Nueva Guía de Remisión</a>
                         </div>
                     </div>                    

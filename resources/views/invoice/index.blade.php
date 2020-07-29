@@ -15,14 +15,14 @@
         </div>        
     </div>
 
-    <div class="wrapper wrapper-content animated fadeInRight">
-        <div class="row">            
+    <div class="wrapper wrapper-content animated fadeInRight"  ng-controller="InvoiceController as vm" ng-init="vm.readDocumentPlan({{$_COOKIE['company_id']}})">
+        <div class="row" ng-show="vm.PlanCompany.length != 0">            
 
             <div class="col-lg-12">
                 <div class="ibox float-e-margins">
                     <div class="ibox-title">
                         <h5>Lista de Facturas</h5>
-                        <div class="ibox-tools">                            
+                        <div class="ibox-tools" ng-show="vm.PlanCompany.documentQuantity != vm.PlanCompany.plan.document_count">                            
                             <a href="{{url('invoice/create')}}" class="btn btn-xs btn-danger"><span class="fa fa-plus-circle"></span> Nueva Factura</a>                            
                         </div>
                     </div>                    

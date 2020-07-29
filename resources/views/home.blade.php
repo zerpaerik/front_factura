@@ -1,8 +1,82 @@
 @extends('layouts.app')
 
 @section('content')	
-<div class="wrapper wrapper-content">
-	   <div class="row">
+<div class="wrapper wrapper-content" ng-controller="HomeController as vm" ng-init="vm.readDocumentPlan({{$_COOKIE['company_id']}})">
+<div class="row" ng-show="vm.PlanCompany.length != 0"> 
+	   		<div class="col-lg-12">
+                <div class="ibox float-e-margins">
+                	<div class="ibox-title" style="background-color: #33A1FF">  
+                        <h5 style="color:white;">PLAN ACTUAL ACTIVO</h5>
+                    </div>               
+	                <div class="ibox-content">
+	                 	<div class="row">
+	                 		
+		                    <div class="col-lg-2">
+		                        <div class="ibox float-e-margins">
+		                            <div class="ibox-title">  
+		                                <h5>PLAN </h5>
+		                            </div>
+		                            <div class="ibox-content">
+										<div class="widget style1">
+											<div class="row">
+												<div class="col-xs-4">
+													<i class="fa fa-file-text-o fa-3x"></i>
+												</div><br>
+												<div class="col-xs-8 text-right">
+													<span class="fa fa-plus-circle"></span> @{{vm.PlanCompany.plan.name}} 
+												</div>
+												<div class="col-xs-8 text-right" ng-show="vm.PlanCompany.documentQuantity == vm.PlanCompany.plan.document_count">
+													<span class="fa fa-plus-circle"></span> AGOTADO 
+												</div>
+											</div>
+										</div>
+		                            </div>
+		                        </div>
+	                    	</div>
+		                    <div class="col-lg-2">
+		                        <div class="ibox float-e-margins">
+		                            <div class="ibox-title">
+		                                <h5>CANTIDAD DOCUMENTO</h5>
+		                            </div>
+		                            <div class="ibox-content">
+										<div class="widget style1">
+											<div class="row">
+												<div class="col-xs-4">
+													<i class="fa fa-file-text-o fa-3x"></i>
+												</div><br>
+												<div class="col-xs-8 text-right">
+													<span class="fa fa-plus-circle"></span> @{{vm.PlanCompany.plan.document_count}}
+												</div>
+											</div>
+										</div>
+		                            </div>
+		                        </div>
+		                    </div>
+		                    <div class="col-lg-2">
+		                        <div class="ibox float-e-margins">
+		                            <div class="ibox-title">
+		                                <h5>DOCUMENTOS GENERADOS</h5>
+		                            </div>
+		                            <div class="ibox-content">
+										<div class="widget style1">
+											<div class="row">
+												<div class="col-xs-4">
+													<i class="fa fa-file-text-o fa-3x"></i>
+												</div><br>
+												<div class="col-xs-8 text-right">
+													<span class="fa fa-plus-circle"></span> @{{vm.PlanCompany.documentQuantity}}
+												</div>
+											</div>
+										</div>
+		                            </div>
+		                        </div>
+		                    </div>
+        				</div>
+               		 </div>
+            	</div>
+	   		</div>
+	   	</div>
+	   <div class="row" ng-show="vm.PlanCompany.documentQuantity != vm.PlanCompany.plan.document_count">
 	   		<div class="col-lg-12">
                 <div class="ibox float-e-margins">
                 	<div class="ibox-title" style="background-color: #33A1FF">  

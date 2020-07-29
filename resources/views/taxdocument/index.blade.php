@@ -19,13 +19,13 @@
         <div class="col-lg-2">
         </div>
     </div>
-    <div id="client" class="wrapper wrapper-content animated fadeInRight" ng-controller="TaxDocumentController as vm">
-        <div class="row">
+    <div id="client" class="wrapper wrapper-content animated fadeInRight" ng-controller="TaxDocumentController as vm" ng-init="vm.readDocumentPlan({{$_COOKIE['company_id']}})">
+        <div class="row" ng-show="vm.PlanCompany.length != 0">
             <div class="col-lg-12">
                 <div class="ibox float-e-margins">
                     <div class="ibox-title">
                         <h5>Lista de Retenciones</h5>
-                        <div class="ibox-tools">  
+                        <div class="ibox-tools" ng-show="vm.PlanCompany.documentQuantity != vm.PlanCompany.plan.document_count">  
                             <a href="{{url('/taxdocument/create')}}" class="btn btn-xs btn-danger"><span class="fa fa-plus-circle"></span> Nueva Retención</a>
                         </div>
                     </div>                    

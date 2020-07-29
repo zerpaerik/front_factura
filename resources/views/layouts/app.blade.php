@@ -80,6 +80,7 @@
     <script src="{{ URL::asset('js/AppQuantum/services/app.warehouse.services.js') }}"></script>
     <script src="{{ URL::asset('js/AppQuantum/services/app.warehousebranch.services.js') }}"></script>
     <script src="{{ URL::asset('js/AppQuantum/services/app.inventory.services.js') }}"></script>
+    <script src="{{ URL::asset('js/AppQuantum/services/app.home.services.js') }}"></script>
 
     {{-- Declaracion de Aplicacion Controladores --}}
     <script src="{{ URL::asset('js/AppQuantum/controllers/app.client.controller.js') }}"></script>
@@ -103,6 +104,7 @@
     <script src="{{ URL::asset('js/AppQuantum/controllers/app.warehouse.controller.js') }}"></script>
     <script src="{{ URL::asset('js/AppQuantum/controllers/app.warehousebranch.controller.js') }}"></script>
     <script src="{{ URL::asset('js/AppQuantum/controllers/app.inventory.controller.js') }}"></script>
+    <script src="{{ URL::asset('js/AppQuantum/controllers/app.home.controller.js') }}"></script>
 
     <link rel="shortcut icon" href="{{ URL::asset('logo.ico') }}"/>
     <link rel="stylesheet" href="{!! asset('css/vendor.css') !!}" />
