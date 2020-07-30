@@ -40,6 +40,12 @@
                                     </select>
                                 </div>
                             </div> 
+			    
+			    <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Nombre Comercial</label>
+                                <div class="col-lg-6"><input id="comercial_name" type="text" 
+                                    ng-model="vm.client.comercial_name" placeholder="Nombre Comercial" class="form-control">
+                                </div>
+                            </div> 
 							
 							
 
@@ -49,11 +55,7 @@
                                 </div>
                             </div>   
 
-                            <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Nombre Comercial</label>
-                                <div class="col-lg-6"><input id="comercial_name" type="text" 
-                                    ng-model="vm.client.comercial_name" placeholder="Nombre Comercial" class="form-control">
-                                </div>
-                            </div>     
+                                
 
                             <div class="form-group">
                                 <label class="col-lg-2 col-lg-offset-1 control-label">Tipo de Documento</label>
