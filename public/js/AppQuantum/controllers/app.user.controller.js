@@ -159,24 +159,24 @@
             vm.readBranchList(CompanyId);
         }
 
-        vm.readCompanyList = function(UserRoleId, CompanyId){
-            var promise = CompanyService.readAll();
-            promise.then(function(pl){
-                if(UserRoleId===1)// SuperAdministrador
-                   vm.CompanyList = pl.data;
-                else
-                {
-                   var datos = pl.data;
-                   angular.forEach(datos, function(company, key){
-                        if(company.id===CompanyId){
-                            vm.CompanyList.push(company);
-                            vm.company = company;
-                            vm.fillBranch(CompanyId);
-                        }
-                   });
-                }
-            });    
+       vm.readCompanyList = function (UserRoleId, CompanyId) {
+      vm.UserRoleId = UserRoleId;
+      var promise = CompanyService.readAll();
+      promise.then(function (pl) {
+        if (UserRoleId === 1)
+          // SuperAdministrador
+          vm.CompanyList = pl.data;
+        else {
+          var datos = pl.data;
+          angular.forEach(datos, function (company, key) {
+            if (company.id === CompanyId) {
+              vm.CompanyList.push(company);
+              vm.company = company;
+            }
+          });
         }
+      });
+    };
 
         vm.readBranchList = function(id){            
             var promise = BranchService.readAll(id);
