@@ -20,6 +20,7 @@
         vm.activetoggleSelected = true;
         vm.saletoggleSelected = true;
         vm.purchasetoggleSelected = true;
+        vm.defaultTaxtoggleSelected = true;
         vm.TipoPorcentaje = "";
         vm.Tasa = "";
         vm.enableButton = false;
