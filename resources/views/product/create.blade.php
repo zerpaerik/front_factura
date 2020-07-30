@@ -196,6 +196,7 @@
                                                                 </toggle>
                                                             </td>
                                                             <td><button type="button" class="btn btn-md btn-success" ng-click="vm.addProductTax()" ng-disabled="!vm.enableButton"><i class="fa fa-plus"></i> </button></td>
+                                                        
                                                         </tr>
                                                     </tbody>
                                                 </table>
