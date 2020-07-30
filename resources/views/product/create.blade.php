@@ -191,8 +191,8 @@
                                                             <td>
                                                                 <toggle id="is_default" 
                                                                     ng-model="vm.defaultTaxtoggleSelected" 
-                                                                    onstyle="btn-success" on="Si" 
-                                                                    offstyle="btn-danger" off="No">
+                                                                    onstyle="btn-success" on="No" 
+                                                                    offstyle="btn-danger" off="Si">
                                                                 </toggle>
                                                             </td>
                                                             <td><button type="button" class="btn btn-md btn-success" ng-click="vm.addProductTax()" ng-disabled="!vm.enableButton"><i class="fa fa-plus"></i> </button></td>
