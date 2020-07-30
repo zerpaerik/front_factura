@@ -97,17 +97,21 @@
                     <li><a href="{{ url('/companyplan')}}">Planes por Compañia</a></li>
                 </ul>
             </li>
-            <li>
+            @endif
+             <li>
                 <a href="#"><i class="fa fa-lock"></i> <span class="nav-label">Seguridad</span><span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level collapse">
                     <li><a href="{{ url('/user') }}">Gestion de Usuarios</a></li>
+                               @if(env('ROLE_SUPERADMIN', NULL) == $_COOKIE['userRole'])
+
                     <li><a href="{{ url('/permission') }}">Permisología de Roles</a></li>
                     @if(env('ROLE_DEVADMIN', NULL) == $_COOKIE['userRole'])
                         <li><a href="{{ url('/audit') }}">Información de Compañias</a></li>
                     @endif
+                     @endif
+
                 </ul>
             </li>
-            @endif
             {{-- <li>
                 <a href="#"><i class="fa fa-table"></i> <span class="nav-label">Reportes</span><span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level collapse">
