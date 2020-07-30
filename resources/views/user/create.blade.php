@@ -31,9 +31,11 @@
                         <br>
                         <form class="form-horizontal" name="FrmUser" novalidate="novalidate" ng-submit="vm.create()">                            
                             
-                            <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Compañía</label>
+                         
+                            
+                              <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Compañía</label>
                                 <div class="col-lg-6">                                                                    
-                                    <select id="company_id" name="company_id" class="form-control" ng-options="company.name for company in vm.CompanyList track by company.id" ng-model="vm.company" required ng-change="vm.fillBranch(vm.company.id)">
+                                    <select id="company_id"  name="company_id" class="form-control" ng-options="company.name for company in vm.CompanyList track by company.id"   ng-model="vm.company" required>
                                     </select>
                                 </div>
                             </div>
