@@ -34,26 +34,28 @@
 
   //test var
 
-  app.constant("SERVER_CONFIG", {
-    API_HOST: "http://localhost:8001/api",
-    //'API_HOST': 'http://localhost:9000/api'
-  });
+   app.constant('SERVER_CONFIG', {
+         'API_HOST': 'http://74.127.61.115:9000/api',
+         'WAREHOUSE_API': 'http://74.127.61.115:9900/'
+         // 'API_HOST': 'http://localhost:9000/api-rest-doc/public/api'
+    });
 
-  app.constant("SRI_SERVICE", {
-    // Enlaces en la Nube
-    URL: "http://127.0.0.1:8000/invoice/validate/",
-    URL_RETENTION: "http://127.0.0.1:8000/taxdocument/validate/",
-    URL_CREDITNOTE: "http://127.0.0.1:8000/creditnote/validate/",
-    URL_DEBITNOTE: "http://127.0.0.1:8000/debitnote/validate/",
-    URL_REMISSION: "http://127.0.0.1:8000/remission/validate/",
+    app.constant('SRI_SERVICE', {
+        // Enlaces en la Nube
+        'URL'           : 'http://74.127.61.115:90/invoice/validate/',
+        'URL_RETENTION' : 'http://74.127.61.115:90/taxdocument/validate/',
+        'URL_CREDITNOTE': 'http://74.127.61.115:90/creditnote/validate/',
+        'URL_DEBITNOTE' : 'http://74.127.61.115:90/debitnote/validate/',
+        'URL_REMISSION' : 'http://74.127.61.115:90/remission/validate/'
 
-    // Enlaces Locales
-    //'URL'           : 'http://localhost:4300/invoice/validate/',
-    //'URL_RETENTION' : 'http://localhost:4300/taxdocument/validate/',
-    //'URL_CREDITNOTE': 'http://localhost:4300/creditnote/validate/',
-    //'URL_DEBITNOTE' : 'http://localhost:4300/debitnote/validate/',
-    //'URL_REMISSION' : 'http://localhost:4300/remission/validate/'
-  });
+        // Enlaces Locales        
+         //'URL'           : 'http://localhost:8000/invoice/validate/',
+         //'URL_RETENTION' : 'http://localhost:8000/taxdocument/validate/',
+         //'URL_CREDITNOTE': 'http://localhost:8000/creditnote/validate/',
+         //'URL_DEBITNOTE' : 'http://localhost:8000/debitnote/validate/',
+         //'URL_REMISSION' : 'http://localhost:8000/remission/validate/'
+    });
+
 
   app.constant("API_ROUTE", {
     BRANCH: "/branch",
