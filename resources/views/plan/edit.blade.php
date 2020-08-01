@@ -28,10 +28,7 @@
                                 <div class="col-lg-6"><input id="document_count" ng-model="vm.plan.document_count" type="text" placeholder="Nro. Documentos" class="form-control" required> </div>
                             </div>
                             
-                            <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Duración</label>
-                                <div class="col-lg-6"><input id="duration" type="text" ng-model="vm.plan.duration" placeholder="Duración del Plan" class="form-control" required>
-                                </div>
-                            </div>
+                       
                             
                             <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Precio</label>
                                 <div class="col-lg-6"><input id="price" type="text" ng-model="vm.plan.price" placeholder="Precio" class="form-control" required>
