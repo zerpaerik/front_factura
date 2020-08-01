@@ -43,7 +43,6 @@
 
                                 <th class="sorting" tabindex="0" rowspan="1" colspan="1" style="width: 20%;"><center>Nro. Documentos</center></th>
 
-                                <th class="sorting" tabindex="0" rowspan="1" colspan="1" style="width: 10%;"><center>Duración</center></th>
 
                                 <th class="sorting" tabindex="0" rowspan="1" colspan="1" style="width: 15%;"><center>Precio</center></th>
 
@@ -90,10 +89,7 @@
                             data: 'document_count',
                             className: "text-center"
                         },
-                        {
-                            data: 'duration',
-                            className: "text-center"
-                        },
+                        
                         {
                             data: 'price',
                             className: "text-center"
