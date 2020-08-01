@@ -164,15 +164,15 @@
             //     return;
             // }
             // Contador Actual
-            if(vm.companyplan.current_counter<0){
-                SweetAlert.swal("Contador Actual Incorrecto!", "El Contador Actual no puede ser menor o igual a cero!", "warning"); 
-                return;
-            }
+       //     if(vm.companyplan.current_counter<0){
+         //       SweetAlert.swal("Contador Actual Incorrecto!", "El Contador Actual no puede ser menor o igual a cero!", "warning"); 
+           //     return;
+            //}
 
-            if(isNaN(parseInt(vm.companyplan.current_counter))){
-                SweetAlert.swal("Contador Actual Incorrecto!", "El Contador Actual acepta solo valores numéricos!", "warning"); 
-                return;
-            }
+           // if(isNaN(parseInt(vm.companyplan.current_counter))){
+             //   SweetAlert.swal("Contador Actual Incorrecto!", "El Contador Actual acepta solo valores numéricos!", "warning"); 
+               // return;
+            //}
         }
 
         vm.loadList = function(){
