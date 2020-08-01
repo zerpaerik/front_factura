@@ -62,7 +62,7 @@
                             
                             <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Contador Actual</label>
                                 <div class="col-lg-6"><input id="current_counter" type="text" 
-                                    ng-model="vm.companyplan.current_counter" placeholder="Contador Actual" class="form-control" required></div>
+                                    ng-model="vm.companyplan.current_counter" placeholder="Contador Actual" class="form-control"></div>
                             </div>
                             
                             <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Fecha desde</label>
