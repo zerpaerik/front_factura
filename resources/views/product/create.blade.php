@@ -61,6 +61,35 @@
                                                     <label>Precio unitario</label>
                                                     <input id="unit_price" ng-model="vm.product.unit_price" type="number" step=".0001" placeholder="Precio unitario" class="form-control">
                                                 </div>
+                                                <div class="row"></div>
+                                                 <div class="form-group col-xs-3">
+                                                    <label>Activo para la compra</label>
+                                                    <input type="hidden" ng-model="vm.producto.is_purchase_active" value="1"/>
+                                                    <toggle id="is_purchase_active" 
+                                                            ng-model="vm.purchasetoggleSelected" 
+                                                            onstyle="btn-success" on="Si" 
+                                                            offstyle="btn-danger" off="No">
+                                                    </toggle>
+                                                </div>
+                                                <div class="form-group col-xs-3">
+                                                    <label >Activo para la venta</label>
+                                                    <input type="hidden" ng-model="vm.producto.is_sale_active" value="1"/>
+                                                    <toggle id="is_sales_active" 
+                                                            ng-model="vm.salestoggleSelected" 
+                                                            onstyle="btn-success" on="Si" 
+                                                            offstyle="btn-danger" off="No">
+                                                    </toggle>
+                                                </div>
+                                                <div class="form-group col-xs-3">
+                                                    <label>Activo</label>
+                                                    <input type="hidden" ng-model="vm.producto.is_active" value="1"/>
+                                                    <toggle id="is_active" 
+                                                            ng-model="vm.activetoggleSelected" 
+                                                            onstyle="btn-success" on="Si" 
+                                                            offstyle="btn-danger" off="No">
+                                                    </toggle>   
+                                                </div>
+
                                                
                                             </div>
                                         </div>
@@ -121,33 +150,7 @@
 
                                                 <div class="row"></div>
 
-                                                <div class="form-group col-xs-3">
-                                                    <label>Activo para la compra</label>
-                                                    <input type="hidden" ng-model="vm.producto.is_purchase_active" value="1"/>
-                                                    <toggle id="is_purchase_active" 
-                                                            ng-model="vm.purchasetoggleSelected" 
-                                                            onstyle="btn-success" on="Si" 
-                                                            offstyle="btn-danger" off="No">
-                                                    </toggle>
-                                                </div>
-                                                <div class="form-group col-xs-3">
-                                                    <label >Activo para la venta</label>
-                                                    <input type="hidden" ng-model="vm.producto.is_sale_active" value="1"/>
-                                                    <toggle id="is_sales_active" 
-                                                            ng-model="vm.salestoggleSelected" 
-                                                            onstyle="btn-success" on="Si" 
-                                                            offstyle="btn-danger" off="No">
-                                                    </toggle>
-                                                </div>
-                                                <div class="form-group col-xs-3">
-                                                    <label>Activo</label>
-                                                    <input type="hidden" ng-model="vm.producto.is_active" value="1"/>
-                                                    <toggle id="is_active" 
-                                                            ng-model="vm.activetoggleSelected" 
-                                                            onstyle="btn-success" on="Si" 
-                                                            offstyle="btn-danger" off="No">
-                                                    </toggle>   
-                                                </div>
+                                               
                                             </div>
                                         </div>
                                         <div id="tab-3" class="tab-pane">
