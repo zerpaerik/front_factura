@@ -46,7 +46,6 @@
 
                                 <th class="sorting_asc" tabindex="0" rowspan="1" colspan="1" style="width: 20%;"><center>Plan</center></th>
 
-                                <th class="sorting_asc" tabindex="0" rowspan="1" colspan="1" style="width: 10%;"><center>Nro.Doc. Plan</center></th>
 
                                 <th class="sorting" tabindex="0" rowspan="1" colspan="1" style="width: 15%;"><center>Fecha Inicio</center></th>
 
@@ -97,10 +96,7 @@
                             data: 'plan.name', 
                             name: 'plan.name'
                         },
-                        {
-                            data: 'current_counter',
-                            className: "text-center"
-                        },
+                  
                         {
                             data: 'start_date',
                             className: "text-center",
