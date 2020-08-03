@@ -42,6 +42,11 @@
                             </div>
 			    <br> 
 			    
+			    <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Datos de Cliente</label>
+                                <div class="col-lg-6">
+                                </div>
+                            </div> 
+			    
 			    <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Nombre Comercial</label>
                                 <div class="col-lg-6"><input id="comercial_name" type="text" 
                                     ng-model="vm.client.comercial_name" placeholder="Nombre Comercial" class="form-control">
