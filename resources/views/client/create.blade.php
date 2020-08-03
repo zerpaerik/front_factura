@@ -41,7 +41,6 @@
                                 </div>
                             </div>
 			    <br> 
-			   <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Datos del Cliente</label>
 			    
 			    <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Nombre Comercial</label>
                                 <div class="col-lg-6"><input id="comercial_name" type="text" 
