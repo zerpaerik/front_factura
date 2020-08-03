@@ -39,7 +39,9 @@
                                     <select id="company" class="form-control" ng-options="company.name for company in vm.CompanyList track by company.id"   ng-model="vm.company" required>
                                     </select>
                                 </div>
-                            </div> 
+                            </div>
+			    <br> 
+			   <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Datos del Cliente</label>
 			    
 			    <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Nombre Comercial</label>
                                 <div class="col-lg-6"><input id="comercial_name" type="text" 
