@@ -42,7 +42,7 @@
                             </div>
 			    <br> 
 			    
-			    <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">Datos de Cliente</label>
+			    <div class="form-group"><label class="col-lg-2 col-lg-offset-1 control-label">DATOS DEL CLIENTE</label>
                                 <div class="col-lg-6">
                                 </div>
                             </div> 
