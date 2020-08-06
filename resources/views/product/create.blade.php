@@ -117,7 +117,7 @@
                                                 <div class="col-xs-1"></div>
                                                 <div class="form-group col-xs-5">
                                                     <label>Stock mínimo</label>
-                                                    <input id="min_stock" ng-model="vm.product.min_stock" type="number" placeholder="Stock mínimo" class="form-control" required>
+                                                    <input id="min_stock" ng-model="vm.product.min_stock" type="number" placeholder="Stock mínimo" class="form-control">
                                                 </div>
                                                 <div class="form-group col-xs-6">
                                                     <label>Stock máximo</label>
