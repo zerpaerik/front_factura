@@ -84,7 +84,7 @@
                 <ul class="nav nav-second-level collapse">
                     <li><a href="{{ url('/entitymasterdata')}}">Datos Maestros</a></li>
                     <li><a href="{{ url('/mailconfiguration')}}">Servidor de Correo</a></li>
-                    <li><a href="{{ url('/company') }}">Compañias</a></li>
+                  <!--  <li><a href="{{ url('/company') }}">Compañias</a></li>-->
                     <li><a href="{{ url('/branch')  }}">Sucursales</a></li>
                     <li><a href="{{ url('/countrytax')   }}">Impuestos</a></li>
                     {{-- <li><a href="{{ url('/retention')   }}">Retenciones</a></li> --}}
@@ -93,8 +93,8 @@
             <li>
                 <a href="#"><i class="fa fa-bank"></i> <span class="nav-label">Administración</span><span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level collapse">
-                    <li><a href="{{ url('/plan') }}">Planes</a></li>
-                    <li><a href="{{ url('/companyplan')}}">Planes por Compañia</a></li>
+                   <!-- <li><a href="{{ url('/plan') }}">Planes</a></li>-->
+                   <!-- <li><a href="{{ url('/companyplan')}}">Planes por Compañia</a></li>-->
                 </ul>
             </li>
             @endif
